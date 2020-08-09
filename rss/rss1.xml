@@ -1,0 +1,1806 @@
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<atom:link rel="self" type="application/rss+xml" href="http://www.anandtech.com/rss/" />
+<title>AnandTech</title>
+<description>This channel features the latest computer hardware related articles.</description>
+<link>http://www.anandtech.com</link>
+<language>en-us</language>
+<copyright>Copyright 2017 AnandTech</copyright>
+<dc:creator>Anand Lal Shimpi</dc:creator>
+<image>
+    <url>http://www.anandtech.com/content/images/rss_logo.png</url>
+    <title>AnandTech</title>
+    <link>http://www.anandtech.com</link>
+</image>
+
+    
+<item>
+    <title>Google I/O 2017: Google Assistant and Google Home</title>
+    <dc:creator>Matt Humrick</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img src="http://images.anandtech.com/doci/11411/google_io-google_assistant-carousel_575px.png" alt="" /></a></p><p><p>More and more people are using the phrase &ldquo;Ok Google&rdquo; to start a conversation to find information or perform actions using the Google Assistant. Launched last fall, the new assistant is already available on over 100 million devices and is rapidly evolving. Today at Google I/O, its creator took the stage to discuss how Google Assistant is expanding its capabilities and reach on smartphones and Google Home.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img alt="" src="http://images.anandtech.com/doci/11411/google_io-google_home.jpg" style="width: 650px;" /></a><br />
+<em><small>Google Home</small></em></p>
+
+<p>Google Home, a standalone voice activated smart-appliance and speaker, is getting the most attention, with a number of significant improvements on the way. In a few months, Google Home will be able to make hands-free VOIP calls to any phone in the U.S. or Canada for free. There&rsquo;s no additional setup, apps to install, or reliance on a landline or cell phone; just ask the Assistant to place the call. And with multi-user support (the Assistant recognizes individual voices), it&rsquo;s smart enough to call your &ldquo;mom&rdquo; and not your roommate&rsquo;s &ldquo;mom.&rdquo; Google Home will also provide proactive notifications in the near future. Initially, the Assistant will focus on travel, keeping track of upcoming flights and appointments and then alerting you to flight delays or traffic alerts. For the latter, it will even calculate a new travel time and suggest leaving earlier so you&rsquo;re not late to your next appointment. Another new feature, this one rolling out today, is the ability to use Assistant on Google Home to create reminders and calendar appointments, which will then appear on your other Android devices.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img alt="" src="http://images.anandtech.com/doci/11411/type_with_your_assistant_on_phones.gif" /></a></p>
+
+<p>Google Home is also getting some new media capabilities. In addition to Deezer, Pandora, Soundcloud, and others it will soon support free music streaming from Spotify, and with the addition of Bluetooth, it will be able to play music from a nearby Android or iOS device.</p>
+
+<p>Moving from audio to video, Google Home is adding some new video streaming partners too, including CBS All Access, HBO NOW, and HGTV. Later this year, the Assistant on Google Home will gain the ability to send visual responses to your TV via Chromecast. For example, saying &ldquo;Ok Google. What&#39;s on my calendar today?&rdquo; will show your daily schedule on the TV. Of course it will show other common things too such as the weather forecast, and it will integrate with Google&rsquo;s YouTube TV service. It was not clear during the onstage demo, but I assume Google Home will use visual responses when it senses a Chromecast device and switch back to audio responses when the TV is off.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img alt="" src="http://images.anandtech.com/doci/11411/google_io-google_assistant-visual_response.jpg" style="width: 650px;" /></a><br />
+<em><small>A visual response from Google Home showing the weather forecast on the TV</small></em></p>
+
+<p>The last bit of Google Home news is that the device will be available in Australia, Canada, France, Germany, and Japan later this year.</p>
+
+<p>More people will soon be able to use Google Assistant on Android devices too. First, it&rsquo;s learning to speak several new languages this summer, including Brazilian Portuguese, French, German, and Japanese, along with Italian, Korean, and Spanish by the end of the year. Google Assistant is also coming to the iPhone in the form of a new app that&rsquo;s already available on Apple&rsquo;s App Store. Now iPhone users can use its natural language interface to ask questions, schedule appointments, make phone calls, send texts and emails, play music, and more.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img alt="" src="http://images.anandtech.com/doci/11411/google_io-google_assistant-transactions.png" style="width: 650px;" /></a><br />
+<em><small>Ordering food using Actions and the new Transactions API</small></em></p>
+
+<p>The previously announced Google Assistant SDK will allow third parties to integrate Assistant into even more devices, and by leveraging Actions on Google, developers can integrate the Assistant directly within their apps. There&rsquo;s also a new Transactions API (currently a developer preview) that will allow developers to offer a &ldquo;conversational ordering experience&rdquo; that will help a customer add items to a shopping cart, collect address and billing information, make the purchase or reservation using your fingerprint or other authentication method, and even send order confirmation or shipping updates.</p>
+
+<p>One of the priorities for Google Assistant is making it more conversational; however, there are times in public when you cannot actually speak to your phone, which is why, starting today, you can also type your queries and avoid annoyed or quizzical looks from nearby strangers.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img alt="" src="http://images.anandtech.com/doci/11411/google_io-google_assistant-google_lens_restaurant.jpg" style="width: 650px;" /></a><br />
+<em><small>Google Lens: Recognizing the name of a restaurant and providing relevant information</small></em></p>
+
+<p>Perhaps the coolest new feature coming to Android devices is Google Lens, a new AR experience that uses computer vision to recognize objects in the environment, allowing you to have a conversation with Assistant about what you see. By tapping the Google Lens icon in the camera, it can perform visual language translation (similar to what Google Translate does); help you scan business cards and create new contacts, and even recognize a sign for an upcoming concert and offer you the ability to buy tickets, add the event to your calendar, or even sample some of the band&rsquo;s songs.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home"><img alt="" src="http://images.anandtech.com/doci/11411/google_io-google_assistant-google_lens_wifi.jpg" style="width: 650px;" /></a><br />
+<em><small>Google Lens: Using computer vision to read an ID tag and automatically sign in to a Wi-Fi network</small></em></p>
+
+<p>New products like Google Assistant and Google Lens make it clear that Google is no longer a search company; it&rsquo;s an artificial intelligence company that&rsquo;s focused on integrating speech recognition, language processing, contextual awareness, and computer vision with Google Search and data from other Google services such as Gmail to provide new experiences across more devices using a more natural interface.</p>
+</p><p align="center"><a href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=a1f2f01f&amp;cb=1042304414' target='_blank'><img src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=24&amp;cb=1042304414&amp;n=a1f2f01f' border='0' alt='' /></a><img src="http://toptenreviews.122.2o7.net/b/ss/tmn-test/1/H.27.3--NS/0" height="1" width="1" border="0" alt="" /></p>]]></description>
+    <link>http://www.anandtech.com/show/11411/google-io-2017-google-assistant-and-google-home</link>
+ 	<pubDate>Thu, 18 May 2017 02:15:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11411:news</guid>
+ 	<category><![CDATA[ Smartphones]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Google I/O 2017: New AR/VR Experiences</title>
+    <dc:creator>Matt Humrick</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11410/google-io-2017-ar-vr"><img src="http://images.anandtech.com/doci/11410/google_io-ar_vr-carousel_575px.png" alt="" /></a></p><p><p>Today at its annual developer conference, Google made several announcements about what augmented and virtual reality projects it and its partners have been working on. Google just launched its Daydream VR platform 6 months ago, but already there are over 150 VR apps on Google Play and a small selection of Daydream phones, including the Google Pixel/Pixel XL, Huawei Mate 9 Pro, Moto Z/Moto Z Force, and ZTE Axon 7. We&rsquo;ll be able to add a few more phones to this list later this summer, because Google revealed that Samsung&rsquo;s Galaxy S8 and S8+ will receive a software update making them Daydream compatible. LG&rsquo;s next flagship, likely the LG V30 that launches in the second half of the year, will also be Daydream ready.</p>
+
+<p>Back in October, Google launched the Daydream View, a smartphone-powered VR headset, alongside its Pixel phones as part of its Daydream platform. The fabric-covered headset was designed to be comfortable to wear and serve as an affordable entry point for VR. Today during its opening keynote presentation, Google added a new device category to Daydream: standalone VR headsets. These standalone head-mounted displays (HMDs) are self contained and do not require a PC or smartphone and are completely wireless. Google worked with Qualcomm to create a reference design for partners, which means these products will likely be using a <a href="http://www.anandtech.com/show/10948/qualcomm-snapdragon-835-kryo-280-adreno-540" target="_blank">Snapdragon 835 SoC</a>. The first Daydream HMDs will be an unnamed product from Lenovo and a <a href="http://www.anandtech.com/show/11408/htc-standalone-vive-vr-headset-with-google-daydream">new HTC Vive</a>, both of which will arrive &ldquo;later this year&rdquo; and support Google&rsquo;s WorldSense positional tracking, a new Daydream technology that&rsquo;s derived from Project Tango.</p>
+
+<p align="center"><iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/FxQR5-Y1g0g" width="640"></iframe></p>
+
+<p>Speaking of Tango, Google has used the technology&rsquo;s ability to track motion, measure distance, and establish its position within an environment to enable its new Visual Positioning Service (VPS) that allows you to map indoor locations. While GPS establishes your location outdoors and guides you to a destination (a store, for example), VPS does the same thing indoors, guiding you to a specific location or even a specific product within the store. This AR experience uses cameras to recognize objects and landmarks within the environment and provides directions to your destination. VPS currently works in select museums and Lowe&rsquo;s home improvement stores, and will require mapping and product/feature location information before the service is available in other indoor locations. It will also require a Tango-compatible device, like the <a href="http://www.anandtech.com/show/10993/asus-zenfone-ar-and-zenfone-3-zoom">ASUS ZenFone AR</a> that will be available this summer.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11410/google-io-2017-ar-vr"><img alt="" src="http://images.anandtech.com/doci/11410/google_io-expeditions_ar.jpg" style="width: 650px;" /></a></p>
+
+<p>Google also announced that it&rsquo;s bringing Tango into the classroom with Expeditions AR. It said that over 2 million students have already taken virtual field trips using Expeditions VR with Google Cardboard over the past 2 years. Now with a Tango-enabled device, students can collectively experience and interact with virtual objects, perhaps a strand of DNA, anatomical models, or an internal combustion engine, within their environment. Expeditions AR lessons will be coming to schools this fall through a <a href="https://edu.google.com/expeditions/ar/">Pioneer Program</a>.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11410/google-io-2017-ar-vr</link>
+ 	<pubDate>Wed, 17 May 2017 18:40:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11410:news</guid>
+ 	<category><![CDATA[ VR]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>HTC Announces New Standalone Vive VR Headset with Google Daydream Support</title>
+    <dc:creator>Matt Humrick</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11408/htc-standalone-vive-vr-headset-with-google-daydream"><img src="http://images.anandtech.com/doci/11408/htc_vive-daydream_575px.jpg" alt="" /></a></p><p><p>Today at Google I/O 2017, Google and HTC announced a new Daydream VR compatible Vive headset. This new device in the Vive family is a standalone unit that does not require a PC or a smartphone to power the experience and is completely wireless. HTC says that this will be one of the first standalone headsets to support Google&rsquo;s Daydream platform, which implies other headsets are coming too.</p>
+
+<p>HTC is not revealing much about its new Vive right now. The hardware configuration is unknown, but Qualcomm has been hinting at several standalone VR headsets coming this year that will be using its Snapdragon 835 SoC, which would seem to be a good fit for the Vive. Battery size was not specified either, but without the need to carry an entire smartphone in the headset it should be able to put that volume and weight savings towards a battery that&rsquo;s larger than typically found in a 5.5-inch phone.&nbsp;It will support the new Daydream WorldSense motion tracking, though.</p>
+
+<p>The standalone Vive will be available &ldquo;later this year&rdquo; for an unspecified price.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11408/htc-standalone-vive-vr-headset-with-google-daydream</link>
+ 	<pubDate>Wed, 17 May 2017 15:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11408:news</guid>
+ 	<category><![CDATA[ VR]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 16.5: Gigabyte Provides Your Next Z170 Motherboard</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11406/at20-giveaway-day-165-gigabyte-z170-motherboards"><img src="http://images.anandtech.com/doci/11406/678x452(2)_575px.jpg" alt="" /></a></p><p><p>Looking to build a new Intel system? Well then this afternoon&rsquo;s giveaway should be just what you need. Today Gigabyte is providing a trio of their Z170 gaming motherboards: the Z170X-Ultra Gaming, the Z170X-Gaming 5, and the Z170X-Gaming. As an added kicker, they&rsquo;ve also thrown in some swag: Gigabyte motherboard-themed building block kits.</p>
+
+<ul>
+	<li>Gigabyte Z170X-Ultra Gaming Mobo + Gigabyte Building Blocks Kit + T-Shirt</li>
+	<li>Gigabyte Z170X-Gaming 5 Mobo + Gigabyte Building Blocks Kit + T-Shirt</li>
+	<li>Gigabyte Z170X-Gaming 7 Mobo + Gigabyte Building Blocks Kit + Hoodie</li>
+	<li>Gigabyte Building Blocks Kit (#1)</li>
+	<li>Gigabyte Building Blocks Kit (#2)</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/RdX9L/the-anandtech-20th-anniversary-celebration-gigabyte-technology-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; Gigabyte Technology Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Gigabyte Z170X-Ultra Gaming</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11406/at20-giveaway-day-165-gigabyte-z170-motherboards"><img alt="" src="http://images.anandtech.com/doci/11406/z170xu_575px.jpg" /></a></p>
+
+<p>Leading the pack of today&rsquo;s prizes is <a href="http://www.gigabyte.com/Motherboard/GA-Z170X-Ultra-Gaming-rev-10">Gigabyte&rsquo;s Z170X-Ultra Gaming motherboard</a>. The LGA 1151 motherboard sports 3 PCIe x16 slots (2 off of the CPU, one x4 off of the chipset), 3 PCIe x1 slots, a single full-feature M.2 slot, and unique for Gigabyte&rsquo;s lineup, a U.2 connector for high performance 2.5&rdquo; SSDs. In terms of third party controllers, we&rsquo;re looking at a Realtek ALC 892 for audio, and an Intel I219-V GigE LAN controller, and, most significantly, an Intel &ldquo;Alpine Ridge&rdquo; controller for USB 3.1 (Gen 2) and Thunderbolt 3 support. Particularly interesting here, Gigabyte is one of a handful of vendors to support the highest USB Power Delivery 2.0 states, meaning the board is capable of delivering 100W of power over its Thunderbolt 3/USB-C port.</p>
+
+<h3>Gigabyte Z170X Gaming 7</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11406/at20-giveaway-day-165-gigabyte-z170-motherboards"><img alt="" src="http://images.anandtech.com/doci/11406/z170x7_575px.jpg" /></a></p>
+
+<p>The second motherboard among today&rsquo;s prizes is <a href="http://www.gigabyte.com/Motherboard/GA-Z170X-Gaming-7-rev-10">Gigabyte&rsquo;s Z170X Gaming 7</a>. The layout of this board is quite similar to the Z170X-Ultra gaming, relying on the same 3 PCIe x16 slot + 3 PCIe x1 slot configuration. However the board features two M.2 slots, both of which support both SATA and PCIe drives. For third party controllers, as this is a more high-end gaming focused board, Gigabyte has equipped the board with a Creative Sound Core audio controller for audio, both Intel and Killer E2400 controllers for dual NIC functionality, and like its Ultra counterpart, an Intel &ldquo;Alpine Ridge&rdquo; controller for USB 3.1 (Gen 2) and Thunderbolt 3 support.</p>
+
+<h3>Gigabyte Z170X Gaming 5</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11406/at20-giveaway-day-165-gigabyte-z170-motherboards"><img alt="" src="http://images.anandtech.com/doci/11406/z170x5_575px.jpg" style="width: 489px; height: 500px;" /></a></p>
+
+<p>Our final motherboard prize of the day is <a href="http://www.gigabyte.us/Motherboard/GA-Z170X-Gaming-5-rev-10">Gigabyte&rsquo;s Z170X Gaming 5</a>. The smaller sibling to the Gaming 7, this board has the same triple PCIe x16 (2 CPU, 1 PCH) slot layout, but with 4 PCIe x1 slots and a single M.2 slot. For third party controllers Gigabyte is using a Realtek ALC 1150 for audio, both Intel and Killer E2201 controllers for dual NIC functionality, and an Intel controller for USB 3.1 (Gen 2) support.</p>
+
+<h3>Gigabyte Building Blocks</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11406/at20-giveaway-day-165-gigabyte-z170-motherboards"><img alt="" src="http://images.anandtech.com/doci/11406/gigabyteblocks_575px.jpg" style="width: 616px; height: 400px;" /></a></p>
+
+<p>Last among our prizes, Gigabyte has also thrown in some outright swag with their <a href="http://store.gigabyte.us/gigabyte-building-blocks/">building blocks kit</a>. The kit lets you build &ndash; you guessed it &ndash; a toy motherboard, complete with Gigabyte and Intel logos. No word on what kind of CPU it supports though.</p>
+
+<p>Finally, as with our other giveaways, this afternoon&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in tomorrow for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11406/at20-giveaway-day-165-gigabyte-z170-motherboards</link>
+ 	<pubDate>Wed, 17 May 2017 14:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11406:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>The Google I/O 2017 Keynote Live Blog</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p>Taking place today is Google&#39;s annual I/O developer conference. Starting things off as always is the keynote, where we should receive updates on several Google technologies, initiaitves, and other Google-centric projects.</p>
+]]></description>
+    <link>http://www.anandtech.com/show/11409/the-google-io-2017-keynote-live-blog</link>
+ 	<pubDate>Wed, 17 May 2017 12:50:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11409:news</guid>
+ 	<category><![CDATA[ Smartphones]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 16: ADATA Supplies the Storage &amp; the RAM</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11405/at20-giveaway-day-16-adata-ssds-and-ram"><img src="http://images.anandtech.com/doci/11405/678x452_575px.jpg" alt="" /></a></p><p><p>Kicking things off today is day 16 of our <a href="http://www.anandtech.com/show/11212/celebrating-anandtechs-20th-anniversary/2">20 day giveaway celebration of AnandTech&rsquo;s 20<sup>th</sup> anniversary</a>. We&rsquo;ve now in the final stretch of our giveaway, and over the next week we&rsquo;ll be giving away the last of our prizes, so good luck to everyone.</p>
+
+<p>This morning&rsquo;s prizes come from ADATA, one of the long-time vendors in the DRAM and flash memory storage market. To that end, the company has sent over a selection of prizes for both storage and RAM, including the SU800 SSD, SV620 external SSD, and two XPG Z1 DDR4-2133 16GB memory kits.</p>
+
+<ul>
+	<li>ADATA Ultimate SU800 256GB SSD</li>
+	<li>ADATA SV620 240GB External SSD</li>
+	<li>ADATA XPG Z1 DDR4-2133 16GB Kit (#1)</li>
+	<li>ADATA XPG Z1 DDR4-2133 16GB Kit (#2)</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/P3lZQ/the-anandtech-20th-anniversary-celebration-adata-technology-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; ADATA Technology Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>ADATA Ultimate SU800 256GB SSD</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11405/at20-giveaway-day-16-adata-ssds-and-ram"><img alt="" src="http://images.anandtech.com/doci/11405/adata_ssd_575px.jpg" style="width: 442px; height: 400px;" /></a></p>
+
+<p>Starting things off, we have one of <a href="http://www.adata.com/us/feature/410">ADATA&rsquo;s Ultimate SU800 SSDs</a>. The 2.5&rdquo; 256GB SATA drive uses a Silicon Motion SM2258 controller combined with Micron&rsquo;s 32-layer TLC 3D NAND. This entry-level drive can just about saturate the SATA III interface in sequential reads, meanwhile write performance is boosted by the use of a pseudo-SLC mode write cache.</p>
+
+<p>[specs]</p>
+
+<h3>ADATA SV620 240GB External SSD</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11405/at20-giveaway-day-16-adata-ssds-and-ram"><img alt="" src="http://images.anandtech.com/doci/11405/adata_essd_575px.jpg" style="width: 503px; height: 400px;" /></a></p>
+
+<p>Meanwhile for those of you needing a bit more portable storage, we have a 240GB version of <a href="http://www.adata.com/us/feature/389">ADATA&rsquo;s SV620 external SSD</a>. This external drive uses a USB 3.0 Micro-B connection, and ADATA rates it for write speeds up to 440MB/sec, and read speeds of up to 420MB/sec. Internally, the enclosure contains one of ADATA&rsquo;s SP550 SSDs, which is a Silicon Motion SM2256 controller paired with SK Hynix&rsquo;s 16nm planar TLC.</p>
+
+<h3>ADATA XPG Z1 DDR4-2133 16GB Kit (2x8GB)</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11405/at20-giveaway-day-16-adata-ssds-and-ram"><img alt="" src="http://images.anandtech.com/doci/11405/adata_dimm_575px.jpg" /></a></p>
+
+<p>Last but not least, we have a pair of ADATA sub-brand XPG&rsquo;s Z1 DDR4-2133 memory kits, which contains 16GB of DDR4 in a pair of 8GB DIMMs. These kits operate at 15-15-15 timings with a JEDEC standard voltage of 1.2v, so they can be easily dropped into any system. Meanwhile cooling is provided by an XPG-red heatspreader that covers the complete length of the RAM.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in this afternoon for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11405/at20-giveaway-day-16-adata-ssds-and-ram</link>
+ 	<pubDate>Wed, 17 May 2017 08:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11405:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AMD Updates GPU Architecture Roadmap: After Navi Comes “Next Gen”</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11404/amd-updates-gpu-architecture-roadmap-after-navi-comes-next-gen"><img src="http://images.anandtech.com/doci/11404/rtg-logo_575px.png" alt="" /></a></p><p><p>While the big GPU-related announcement out of today&rsquo;s AMD Financial Analyst day was the <a href="http://www.anandtech.com/show/11403">Radeon Vega Frontier Edition</a>, as part of his presentation, AMD&rsquo;s CTO Mark Papermaster also offered a brief update of AMD&rsquo;s GPU architecture roadmap.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11404/amd-updates-gpu-architecture-roadmap-after-navi-comes-next-gen"><img alt="" src="http://images.anandtech.com/doci/11404/gpuroadmap_575px.png" /></a></p>
+
+<p>The admittedly high-level overview doesn&rsquo;t significantly expand on <a href="http://www.anandtech.com/show/10145/amd-unveils-gpu-architecture-roadmap-after-polaris-comes-vega">AMD&rsquo;s last roadmap from 2016</a>, but it does offer a fresh look at AMD&rsquo;s timeline, while confirming that yes, as you&rsquo;d expect, they are indeed working on a post-Navi architecture.</p>
+
+<p>The most useful aspect of the new roadmap is that it helps to illustrate which process nodes which architectures will be on. We&rsquo;ve known for some time now that there are multiple Vega GPUs, but it hasn&rsquo;t been clear how they&rsquo;re organized &ndash; if it&rsquo;s a big/little pair like Polaris 10 and 11 &ndash; or something else entirely. This latest roadmap strongly hints at the latter, noting that AMD is making both 14nm and &ldquo;14nm+&rdquo; chips, the latter presumably being our second Vega.</p>
+
+<p>14nm+ is not an official GlobalFoundries designation at this time, but it is not surprising to see AMD planning for multiple generations of 14nm. As progress on new manufacturing nodes slows and costs continue to rise, all of the major foundries have begun offering multiple generations of leading-edge processes, to allow them to iterate on a process over multiple years and further improve it. Until 7nm is ready, an enhanced 14nm process will help AMD continue to improve their products over the next year or so.</p>
+
+<p>Speaking of 7nm, the updated roadmap also confirms that Navi will be produced on a 7nm process. AMD&rsquo;s partner and former in-house fab group <a href="http://www.anandtech.com/show/10704/globalfoundries-updates-roadmap-7-nm-in-2h-2018">GlobalFoundries has been pushing hard to bring up 7nm</a>, and they are the most likely fab for AMD to use. Besides the use of 7nm, we also know from previous AMD roadmaps that the company is looking into both scalability and next-generation memory for their future architecture.</p>
+
+<p>Finally, beyond Navi we have the unnamed &ldquo;Next Gen&rdquo; architecture for the last segment of AMD&rsquo;s 3 year roadmap. This latest update confirms that AMD is indeed working on a 3<sup>rd</sup> GPU architecture, and that it will be built upon a refined 7nm process. Besides that, AMD isn&rsquo;t saying anything about what it might feature at this time.</p>
+
+<p>Meanwhile, it&rsquo;s interesting to note that AMD is continuing to produce new GPU architecture roadmaps &ndash; even if they are at a high level &ndash; while rival NVIDIA has curtailed them entirely. This is an interesting inversion of the status quo; for the longest time it was NVIDIA who laid out long roadmaps while AMD kept their cards close. So for the first time in a long time, we have a better idea of what AMD is planning than their competition.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11404/amd-updates-gpu-architecture-roadmap-after-navi-comes-next-gen</link>
+ 	<pubDate>Wed, 17 May 2017 03:30:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11404:news</guid>
+ 	<category><![CDATA[ GPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AMD Unveils the Radeon Vega Frontier Edition: Vega Starts in the Pros</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p>It feels like the build-up to Vega has been just shy of forever. And in a way it has been: AMD first announced the architecture back in March of 2016, and we&rsquo;ve known for almost as long that Polaris would be a volume play, not a play for the high performance market. It would be Vega that would be AMD&rsquo;s next high-end GPU, and true successor to 2015&rsquo;s unique (if mistimed) Fiji GPU.</p>
+
+<p>Since then AMD has slowly been releasing details on the Vega architecture. Bits and pieces related to the <a href="http://www.anandtech.com/show/10663/analyzing-sonys-playstation-4-pro-announcement">Playstation 4 Pro</a>, which incorporated some Vega features, and then a much more significant information dump at the start of this year with their <a href="http://www.anandtech.com/show/11002/the-amd-vega-gpu-architecture-teaser">Vega teaser</a>, closely aligned with their associated announcement of the <a href="http://www.anandtech.com/show/10905/amd-announces-radeon-instinct-deep-learning-2017">Radeon Instinct accelerator</a>, which set some pretty specific guidelines for what kind of performance AMD was aiming for. Until today all we&rsquo;ve known for sure is that Vega would be ambitious, but not unrealistic, and that AMD wanted to launch it by the end of June.</p>
+
+<p>So for today&rsquo;s AMD Financial Analyst Day, AMD has released a little bit more information as part of the next step of their campaign. The first Vega product to be released has a name, it has a design, and it has performance figures. Critically, it even has a release date. I hesitate to call this a full announcement in the typical sense &ndash; AMD is still holding some information back until closer to the launch &ndash; but we now finally have a clear picture of where the Vega generation kicks off for AMD.</p>
+
+<p>Say hello to the Radeon Vega Frontier Edition.</p>
+]]></description>
+    <link>http://www.anandtech.com/show/11403/amd-unveils-the-radeon-vega-frontier-edition</link>
+ 	<pubDate>Wed, 17 May 2017 02:45:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11403:news</guid>
+ 	<category><![CDATA[ GPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>CORSAIR Unveils Dominator Platinum Special Edition Torque 32GB DDR4 Memory Kits</title>
+    <dc:creator>Patrick MacMillan</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11384/corsair-launches-dominator-platinum-special-edition-torque"><img src="http://images.anandtech.com/doci/11384/dominator_se_torque_04_575px.png" alt="" /></a></p><p><p>Corsair has just launched a flamboyant new addition to its flagship Dominator Platinum memory series in the form of two 32GB DDR4 kits that have apparently been designed to reproduce the aesthetic of high-performance automotive engines.</p>
+
+<p>Dubbed the Dominator Platinum Special Edition Torque, this new model&#39;s key feature is clearly the unique top bar, which has been given a heat-treated effect in order to mimic the patina that is often found on the exhaust manifolds of high-performance engines. The top bar also has integrated white LEDs, which we are a bit surprised aren&#39;t RGB LED (if only due to their ubiquity). The black aluminium heatsinks have been given a brushed finish, while the cooling fins and much of labelling is in an eye-catching shade of orange. As per the model name, these are a special edition modules that will be available in limited quantities, with each kit being individually numbered..</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11384/corsair-launches-dominator-platinum-special-edition-torque"><img alt="" src="http://images.anandtech.com/doci/11384/dominator_se_torque_02_575px.png" /></a></p>
+
+<p>Designed for Intel X99 and 200-series motherboards, the two 32GB Dominator Platinum Special Edition Torque memory kits are available as both a 2x16GB kit and a 4x8GB kit, each with otherwise identical specifications. The CMD32GX4M2C3200C14T model is a dual-channel kit consisting of two 16GB memory modules rated to run at DDR4-3200 with CL14-16-16-36 timings at 1.35 volts. The CMD32GX4M4C3200C14T model is quad-channel memory kit consisting of four 8GB memory modules rated to run at DDR4-3200 with CL14-16-16-36 timings at 1.35V. They are both manufactured with Corsair&#39;s custom 10-layer PCB, and feature Samsung B-die ICs that have been binned to ensure that they can be safely overclocked to at least DDR4-3600. Both kits also support XMP 2.0, which should eliminate any of the hassle that is often associated with trying to manually overclock memory.</p>
+
+<table border="0" cellpadding="0" cellspacing="1" style="width: 670px;">
+	<tbody>
+		<tr class="tgrey">
+			<td colspan="10">Corsair Dominator Platinum Special Edition Torque Kits</td>
+		</tr>
+		<tr class="tlblue">
+			<td width="130">Data rate</td>
+			<td colspan="2" rowspan="1" width="110">Latency</td>
+			<td width="80">Kit Capacity</td>
+			<td width="80">Modules</td>
+			<td width="80">Voltage</td>
+			<td width="80">Part Number</td>
+			<td width="80">Launch Price</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="3" style="text-align: center; vertical-align: middle;">3200 MT/s</td>
+			<td colspan="2" rowspan="3" style="text-align: center; vertical-align: middle;">CL14 16-16-36</td>
+			<td style="text-align: center; vertical-align: middle;">32 GB</td>
+			<td style="text-align: center; vertical-align: middle;">2x16GB</td>
+			<td colspan="1" rowspan="3" style="text-align: center; vertical-align: middle;">1.35 V</td>
+			<td style="text-align: center;"><a href="http://www.corsair.com/en-us/dominator-platinum-se-torque-32gb-2x16gb-ddr4-dram-3200mhz-c14-memory-kit-cmd32gx4m2c3200c14t">CMD32GX4M2C3200C14T</a></td>
+			<td style="text-align: center;">$399.99</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; vertical-align: middle;">32 GB</td>
+			<td style="text-align: center; vertical-align: middle;">4x8GB</td>
+			<td style="text-align: center;"><a href="http://www.corsair.com/en-us/dominator-platinum-se-torque-32gb-2x16gb-ddr4-dram-3200mhz-c14-memory-kit-cmd32gx4m2c3200c14t">CMD32GX4M4C3200C14T</a></td>
+			<td style="text-align: center;">$449.99</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The new Corsair Dominator Platinum Special Edition Torque series is available immediately on Corsair&#39;s website. The 2x16GB kit is priced at $399.99 USD, while the 4x8GB version is a little pricier at $449.99 USD. They are both covered by Corsair&#39;s lifetime warranty.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5616" target="_blank">DOMINATOR PLATINUM Special Edition Torque</a><div><a href="http://www.anandtech.com/Gallery/Album/5616#1" target="_blank"><img src="http://images.anandtech.com/galleries/5616/dominator_se_torque_01_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5616#2" target="_blank"><img src="http://images.anandtech.com/galleries/5616/dominator_se_torque_02_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5616#3" target="_blank"><img src="http://images.anandtech.com/galleries/5616/dominator_se_torque_03_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5616#4" target="_blank"><img src="http://images.anandtech.com/galleries/5616/dominator_se_torque_04_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5616#5" target="_blank"><img src="http://images.anandtech.com/galleries/5616/dominator_se_torque_05_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5616#6" target="_blank"><img src="http://images.anandtech.com/galleries/5616/dominator_se_torque_06_thumb.png" width="85" height="85" border="0"/></a></div></div></p>
+
+<p>Related Reading</p>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/11221/corsair-starts-to-sell-vengeance-rgb-ddr4-memory-modules-with-leds">Corsair Vengeance RGB DDR4 Memory Modules with LEDs Now on Sale</a></li>
+	<li><a href="http://www.anandtech.com/show/10449/corsair-unveils-vengeance-led-modules">Corsair Unveils Vengeance LED Modules: DDR4 Gets Lighting, 4333 MT/s Data-Rate</a></li>
+	<li><a href="http://www.anandtech.com/show/10386/corsair-announces-dominator-platinum-special-edition-and-vengeance-led-module">Corsair Announces Dominator Platinum Special Edition and Vengeance LED Memory Modules</a></li>
+	<li><a href="http://www.anandtech.com/show/10357/corsair-launches-dominator-platinum-memory-modules-for-asus-rog-systems">Corsair Launches Dominator Platinum Memory Modules for ASUS ROG Systems</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11384/corsair-launches-dominator-platinum-special-edition-torque</link>
+ 	<pubDate>Tue, 16 May 2017 15:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11384:news</guid>
+ 	<category><![CDATA[ Memory]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 15.5: SilverStone Sends a Smorgasbord of PC Hardware</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img src="http://images.anandtech.com/doci/11397/678x452(1)_575px.jpg" alt="" /></a></p><p><p>Taking us into this afternoon&rsquo;s AT20 giveaway is SilverStone. The prolific maker of computer hardware offers a large number of computer peripherals, running the gauntlet from computer cases and coolers to power supplies, bay adapters, and other peripherals. So for their giveaway it&rsquo;s only fitting that the company has sent an extensive selection of their products, giving you guys a chance to win a wide variety of prizes.</p>
+
+<ul>
+	<li>ECU04-E USB 3.1 PCI Express Card &amp; FP59 Multifunctional Bay</li>
+	<li>TS12 External USB 3.1 Dual Drive Docking Station</li>
+	<li>ES02-USB PC Remote Starter &amp; EBA02 Headphone Holder</li>
+	<li>QIB052-D Qi Battery Bank &amp; NB04 Laptop Cooling Pad</li>
+	<li>SX800-LTI 800W SFX-L Power Supply</li>
+	<li>RVZ01-E Slim Mini-ITX/DTX Case</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/t64fi/the-anandtech-20th-anniversary-celebration-silverstone-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; Silverstone Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>ECU04-E USB 3.1 PCI Express Card &amp; FP59 Multifunctional Bay</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/fp59-34-right-top_crop_575px.jpg" /></a></p>
+
+<p>Our first prize pack is SilverStone&rsquo;s ECU04-E USB 3.1 host card, and a <a href="http://www.silverstonetek.com/product.php?pid=695&amp;area=en">FP59 Multifunction Bay</a>. The FP59 is a 5.25&rdquo; bay and features three USB 3.1 ports &ndash; two Type-A ports and a Type-C port &ndash; along with a power-only 10W USB fast charging port. The bay also features a multifunction card reader that supports SD, microSD, and the other common media card formats. Finally, the bay integrates a fan speed controller for controlling 3pin fans.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/ecu04-e-34right-top_crop_575px.jpg" /></a></p>
+
+<p>And in case you don&rsquo;t have any spare USB headers to drive the FP59 bay, SilverStone has also included their <a href="http://www.silverstonetek.com/product.php?area=en&amp;pid=712">ECU04-E USB 3.1 host card</a>. This PCIe x2 card uses an ASMedia ASM1142 controller to offer an internal USB 3.1 (Gen 2) 19pin header, which can be used to drive a pair of USB 3.1 ports.</p>
+
+<h3>TS12 External USB 3.1 Dual Drive Docking Station</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/ts12c-34left-top_crop_575px.jpg" /></a></p>
+
+<p>Our second prize is <a href="http://www.silverstonetek.com/product.php?pid=743&amp;area=en">SilverStone&rsquo;s TS12 external dual drive docking station</a>. This external drive station can connect up to a pair of 3.5&rdquo;/2.5&rdquo; drives, connecting back to the host computer via a USB 3.1 (Gen 2) connection over USB-C. Internally, the docking station uses ASMedia&rsquo;s ASM1352R USB to SATA controllers. Meanwhile, taking advantage of the fact that it&rsquo;s a dual drive dock, the TS12 also supports independent operation for direct hard drive cloning without a host computer.</p>
+
+<h3>ES02-USB PC Remote Starter &amp; EBA02 Headphone Holder</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/es02-usb-5_crop_575px.jpg" /></a></p>
+
+<p>Our third SilverStone prize pack is composed of the company&rsquo;s <a href="http://www.silverstonetek.com/product.php?pid=714">ES02-USB PC remote starter</a> and their <a href="http://www.silverstonetek.com/product.php?pid=681&amp;area=en">EBA02 wall-mounted headphone holder</a>. The ES02-USB is a simple remote starter that draws power from a USB 2.0 header, and then connects to the power and reset switches of a motherboard. The included remote can then remotely start and reset a PC from up to 20 meters away.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/eba02c-34right_crop_575px.jpg" /></a></p>
+
+<p>To go with the remote starter and to emphasize the remote nature of this prize pack, SilverStone has also thrown in one of their EBA02 headphone holders. This wall-mounted holder can be hung up via either screws or tape, and is made entirely out of aluminum.</p>
+
+<h3>QIB052-D Qi Battery Bank &amp; NB04 Laptop Cooling Pad</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/qib052-d-34right-top_575px.jpg" /></a></p>
+
+<p>Our fourth SilverStone prize pack is the company&rsquo;s QIB052-D Qi battery bank, and their NB04 laptop cooling pad. The <a href="http://www.silverstonetek.com/product.php?pid=725&amp;area=en">QIB052-D</a> is a combination battery bank and docking station that supports both wired charging and wireless charging via the Qi wireless charging standard. The battery pack portion contains a 5200Mah battery and can charge both wireless and wired devices. And when the battery bank itself needs a recharge, the unit comes with its own dock to power &amp; recharge the bank.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/nb04b-front_575px.jpg" /></a></p>
+
+<p>The second part of this prize pack is SilverStone&rsquo;s NB04 laptop cooling pad. The aluminum pad weighs 0.9kg, contains a 200mm sleeve bearing fan, and can hold a laptop up to 15 inches in size. The cooling pad itself is powered via a USB Type-A port.</p>
+
+<h3>SX800-LTI 800W SFX-L Power Supply</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/sx800-lti-34right-top_575px.jpg" /></a></p>
+
+<p>Fifth up for SilverStone&rsquo;s giveaway is one of the company&rsquo;s high-end SFX-L form factor PSUs, the <a href="http://silverstonetek.com/product.php?pid=731">SX800-LTI</a>. The petite power supply is one of the most powerful SFX PSUs on the market &ndash; albeit in the slightly larger SFX-L form factor &ndash; and offers a fully modular layout. The PSU is rated to deliver up to 792W over its single 12v rail &ndash; almost certainly powerful enough for any small form factor build &ndash; and despite its high wattage is rated for 80Plus Titanium efficiency. Cooling is provided by a single 120mm fan, which can disengage for silent operation when the extra cooling isn&rsquo;t required.</p>
+
+<h3>RVZ01-E Slim Mini-ITX/DTX Case</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware"><img alt="" src="http://images.anandtech.com/doci/11397/case_575px.jpg" /></a></p>
+
+<p>Last but certainly not least for our SilverStone prizes is the company&rsquo;s <a href="http://www.silverstonetek.com/raven/products/index.php?model=RVZ01-E">RVZ01-E slim PC case</a>. The compact case is made from a plastic and steel body and accepts Mini-ITX and Mini-DTX motherboards, but for better PSU compatibility can accept a full ATX-size power supply. Despite its small size, the case can hold a video card up to 13&rdquo; long thanks to the use of a PCIe riser card, while for storage there are a quartet of 2.5&rdquo; drive bays. Meanwhile cooling is provided by a pair of 120mm fans &ndash; one at the top and one at the bottom &ndash;and the case itself can be oriented either horizontally or vertically.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in tomorrow for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11397/at20-giveaway-day-155-silverstone-sends-a-smorgasbord-of-hardware</link>
+ 	<pubDate>Tue, 16 May 2017 14:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11397:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 15: ARM Connects You with Chromebooks</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11396/at20-giveaway-day-15-arm-samsung-chromebook-plus"><img src="http://images.anandtech.com/doci/11396/678x452_575px.jpg" alt="" /></a></p><p><p>With a warm welcome to Tuesday, we&rsquo;re now on day 15 of our <a href="http://www.anandtech.com/show/11212/celebrating-anandtechs-20th-anniversary/2">20 day giveaway celebration of AnandTech&rsquo;s 20<sup>th</sup> anniversary</a>.</p>
+
+<p>Today&rsquo;s prizes come courtesy of ARM. While not a product manufacturer in and of themselves &ndash; ARM&rsquo;s business is all about IP and architecture licensing &ndash; the 800lb gorilla of the mobile world has their hands in a multitude of products thanks to the ubiquity and performance of the ARM CPU architecture and their own Cortex-A CPU designs. So for our giveaway, the company has sent over a pair of Samsung&rsquo;s Chromebook Pluses, which are among the most popular of the ARM-powered Chromebooks on the market right now.</p>
+
+<ul>
+	<li>Samsung Chromebook Plus (#1)</li>
+	<li>Samsung Chromebook Plus (#2)</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/1OOcJ/the-anandtech-20th-anniversary-celebration-arm-architectures-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; ARM architectures Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Samsung Chromebook Plus</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11396/at20-giveaway-day-15-arm-samsung-chromebook-plus"><img alt="" src="http://images.anandtech.com/doci/11396/chromebookplus.jpg" style="width: 678px; height: 452px;" /></a></p>
+
+<p>The <a href="http://www.samsung.com/us/computing/chromebooks/12-14/xe513c24-k01us-xe513c24-k01us/">Samsung Chromebook Plus</a> is Samsung&rsquo;s high-end ARM Chromebook offering. The 12.3&rdquo; Chromebook features a 3:2 aspect ratio IPS touchscreen display, which offers a 2400x1600 pixel resolution. The laptop is 2.2lbs and 13.9mm thick, making it thin and light. This in turn is critical to its 2-in-1 design, allowing it to also be used as a tablet thanks to its 360 degree hinge and included stylus. Samsung&rsquo;s Chromebook Plus is also one of what&rsquo;s still only a handful of Chromebooks with shipping Android app support, allowing the aforementioned tablet functionality to mesh well with tablet-optimized Android applications.</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="635">
+	<tbody>
+		<tr class="tgrey">
+			<td colspan="2">Samsung Chromebook Plus</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;" width="209">SoC</td>
+			<td align="center" style="vertical-align: middle;" width="423">OP1<br />
+			<br />
+			2x ARM Cortex-A72 @ 2GHz<br />
+			4x ARM Cortex-A53 @ 1.5GHz<br />
+			<br />
+			ARM Mali-T860MP4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">RAM</td>
+			<td align="center" style="vertical-align: middle;">4GB LPDDR3</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">NAND</td>
+			<td align="center" style="vertical-align: middle;" width="423">32GB eMMC</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Display</td>
+			<td align="center" style="vertical-align: middle;" width="423">12.3&quot; 2400x1600<br />
+			Touchscreen IPS LCD</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Dimensions</td>
+			<td align="center" style="vertical-align: middle;" width="423">280.8 x 221.6 x 12.9-13.9 mm,<br />
+			1.08 kg</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Camera</td>
+			<td align="center" colspan="1" style="vertical-align: middle;" width="423">720p FFC</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Battery</td>
+			<td align="center" style="vertical-align: middle;" width="423">39 WHr</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">OS</td>
+			<td align="center" style="vertical-align: middle;" width="423">ChromeOS</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Connectivity</td>
+			<td align="center" style="vertical-align: middle;" width="423">2x2 802.11ac, BT4.0,<br />
+			2x USB-C, microSD</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Stylus</td>
+			<td align="center" style="vertical-align: middle;">Wacom EMR</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">AC Adapter</td>
+			<td align="center" style="vertical-align: middle;">30W USB-C</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Keyboard</td>
+			<td align="center" style="vertical-align: middle;">1.5mm stroke, backlit, curved caps</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;">Speakers</td>
+			<td align="center" style="vertical-align: middle;">2x 1.5W</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Under the hood, the Chromebook Plus is built around the ARM-powered OP1 SoC, which is a Rockchip-built and Google-approved SoC that packs a pair of ARM Cortex-A72 CPU cores for performance with a quartet of ARM Cortex-A53 cores for efficiency. On the GPU side, the SoC includes another ARM design, their Mali-T860MP4 GPU. Rounding out the package is 4GB of RAM, 32GB of eMMC storage, and 2x2 802.11ac WiFi. Meanwhile the 39Whr battery gives the Chromebook Plus a 9 hour battery life, while charging it is accomplished by using either of the device&rsquo;s USB Type-C ports.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11396/at20-giveaway-day-15-arm-samsung-chromebook-plus"><img alt="" src="http://images.anandtech.com/doci/11396/chromebookplus2.jpg" style="width: 678px; height: 452px;" /></a></p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in this afternoon for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11396/at20-giveaway-day-15-arm-samsung-chromebook-plus</link>
+ 	<pubDate>Tue, 16 May 2017 08:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11396:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>ZOTAC Announces GeForce GTX 1080 Ti ArcticStorm Liquid-Cooled Graphics Card</title>
+    <dc:creator>Patrick MacMillan</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11390/zotac-announces-geforce-gtx-1080-ti-arcticstorm"><img src="http://images.anandtech.com/doci/11390/zt-p10810e-30p_image2_575px.jpg" alt="" /></a></p><p><p>Following what seems to be an industry pattern at the moment, ZOTAC has just announced their very own highly customized and liquid-cooled GeForce GTX 1080 Ti. Out of the box, this new GeForce GTX 1080 Ti ArcticStorm model does not appear to be trying to compete for the title of highest-performing graphics card on the market, but it has the prerequisites to be a highly competitive product.</p>
+
+<p>Starting off with the basics, the GeForce GTX 1080 Ti ArcticStorm ships with an out of the box core clock of 1506 MHz, a boost clock of 1620 Mhz, and 11GB of GDDR5X memory clocked at 11Gbps. Connectivity is quite good with the video output selection consisting of three DisplayPort 1.4, one dual-link DVI-D, and one HDMI 2.0b.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11390/zotac-announces-geforce-gtx-1080-ti-arcticstorm"><img alt="" src="http://images.anandtech.com/doci/11390/zt-p10810e-30p_image4_575px.jpg" /></a></p>
+
+<p>While 1506/1620 MHz (base/boost) is a fairly mild factory overclock for a custom card, ZOTAC have clearly designed this model to be manually overclocked. It has a beefy 16+2-phase VRM, two rear-mounted Power Boost 2.0 capacitors, and dual 8-pin PCIe power connectors.</p>
+
+<p>In fact, this new ArcticStorm model shares all the same power components as the <a href="https://www.zotac.com/us/product/graphics_card/zotac-geforce-gtx-1080-ti-amp-extreme-core-edition">ZOTAC GeForce GTX 1080 Ti AMP Extreme Edition</a>, which has much higher factory clock speeds despite being air-cooled. On that model, the default core clock is 1645 MHz, the boost Clock is 1759 Mhz, and even the memory has been pushed up to 11.2 Ghz.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11390/zotac-announces-geforce-gtx-1080-ti-arcticstorm"><img alt="" src="http://images.anandtech.com/doci/11390/zt-p10810e-30p_image6_575px.jpg" /></a></p>
+
+<p>The key selling point of this ArcticStorm model is clearly the full-coverage water block. While the primary material is not listed, the top of the water block is made of a translucent acrylic, it has copper contact plate to maximize heat transfer, and 0.3mm micro-channels to increase surface area and cooling performance. The block features G 1/4 threaded fittings to make it compatible with most third-party liquid cooling solutions, and a pair of barbs supporting 10mm ID tubing are included. Since it is the feature of the year, the water block inevitably has built-in RGB LED lightning - which ZOTAC calls Spectra - and it is controlled with the included FireStorm utility. For aesthetic and durability reasons, this model also a metal wraparound backplate.</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="650">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="8">Zotac GeForce GTX 1080 Ti Cards</td>
+		</tr>
+		<tr class="tlblue">
+			<td align="center" width="94">&nbsp;</td>
+			<td align="center" width="100">ZOTAC<br />
+			GeForce GTX 1080 Ti<br />
+			ArcticStorm</td>
+			<td align="center" width="85">ZOTAC GeForce GTX 1080 Ti AMP Extreme</td>
+			<td align="center" width="85">NVIDIA<br />
+			GeForce GTX 1080 Ti<br />
+			(Reference)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Core Clock</strong></td>
+			<td align="center">1506 MHz</td>
+			<td align="center">1645 MHz</td>
+			<td align="center">1481 MHz</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Boost Clock</strong></td>
+			<td align="center">1620 MHz</td>
+			<td align="center">1759 MHz</td>
+			<td align="center">1582 MHz</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Memory Clock</strong></td>
+			<td align="center" rowspan="1">11Gbps</td>
+			<td align="center" rowspan="1">11.2Gbps</td>
+			<td align="center" rowspan="1">11Gbps</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>RAM</strong></td>
+			<td align="center" colspan="3" rowspan="1">11GB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>TDP</strong></td>
+			<td align="center">270W</td>
+			<td align="center">320W</td>
+			<td align="center">250W</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Power Connectors</strong></td>
+			<td align="center">2 x 8-pin</td>
+			<td align="center">2 x 8-pin</td>
+			<td align="center">8-pin + 6-pin</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Length</strong></td>
+			<td align="center">11.81&quot;</td>
+			<td align="center">12.8&quot;</td>
+			<td align="center">10.5&quot;</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Width</strong></td>
+			<td align="center">2 Slot</td>
+			<td align="center">2.5 Slot</td>
+			<td align="center">2 Slot</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Cooler Type</strong></td>
+			<td align="center">Water Block<br />
+			(Full Coverage)</td>
+			<td align="center">Open Air</td>
+			<td align="center">Blower</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Launch Date</strong></td>
+			<td align="center">N/A</td>
+			<td align="center">~04/2017</td>
+			<td align="center">03/10/2017</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Launch Price</strong></td>
+			<td align="center">N/A</td>
+			<td align="center">~$750</td>
+			<td align="center">$699</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Although there are no details with regard to availability or pricing, we definitely expect the ZOTAC GeForce GTX 1080 Ti ArcticStorm to fall in the $800-900 range.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5618" target="_blank">GeForce GTX 1080 Ti ArcticStorm</a><div><a href="http://www.anandtech.com/Gallery/Album/5618#1" target="_blank"><img src="http://images.anandtech.com/galleries/5618/zt-p10810e-30p_image1_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5618#2" target="_blank"><img src="http://images.anandtech.com/galleries/5618/zt-p10810e-30p_image2_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5618#3" target="_blank"><img src="http://images.anandtech.com/galleries/5618/zt-p10810e-30p_image3_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5618#4" target="_blank"><img src="http://images.anandtech.com/galleries/5618/zt-p10810e-30p_image4_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5618#5" target="_blank"><img src="http://images.anandtech.com/galleries/5618/zt-p10810e-30p_image5_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5618#6" target="_blank"><img src="http://images.anandtech.com/galleries/5618/zt-p10810e-30p_image6_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/11326/palit-geforce-gtx-1080-ti-hof-limited-edition-announced">Palit GeForce GTX 1080 Ti HOF Limited Edition Announced: 1.75 GHz and Onboard LCD</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11390/zotac-announces-geforce-gtx-1080-ti-arcticstorm</link>
+ 	<pubDate>Tue, 16 May 2017 07:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11390:news</guid>
+ 	<category><![CDATA[ GPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Welcome to the Smartphone Squeeze: HTC Launches the U11</title>
+    <dc:creator>Ian Cutress</dc:creator>    
+    <description><![CDATA[ <p>The history of HTC flagships has been a tale of ups and downs. In all the reviews of smartphones we&rsquo;ve ever done at AnandTech, only two have ever held an AnandTech Gold Award: the iPhone 6S and the HTC M7. At the time, the M7 offered a great camera and specifications for its price, and ever since we&rsquo;ve been waiting for HTC to return to former glory. Today&rsquo;s announcement is for the latest flagship, HTC&rsquo;s U11.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/149491498576935587533_575px.jpg" /></a></p>
+
+<p>The headline feature for the HTC U11 is its new method of interaction: Squeezing. If you&rsquo;ve encountered any of the marketing material on the device, it&rsquo;s all about the squeeze. HTC&rsquo;s new philosophy is that smartphones are stagnating: every generation is just a spec update to the previous model, and the only thing that drives the industry is related to new interaction methods and ways of streamlining the use of a device. Hence the squeeze: by holding the U11 naturally and squeezing between the thumb and the&nbsp;other side of the hand, the squeeze action will do a number of things.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/2017-05-10_10.40.32_575px.jpg" /></a></p>
+
+<p>When the smartphone is turned on, the device will offer a calibration tool consisting of a few minigames (such as squeezing a balloon) in order to set the standard squeeze pressure. The mechanism supports two levels of squeeze based on time, and the calibration is done in order to determine a squeeze compared to a standard grip, which is one of the initial queries we had on the device. We are told that the squeeze is determined by an internal low-power ultrasound generator and detector. After the device is calibrated, it uses the phase of the reflected ultrasound waves for detection.&nbsp;When the device is squeezed, the internal shape will change enough to push the ultrasound wave out of phase, which can be detected as an activation. Software then determines&nbsp;<span style="-webkit-text-stroke-color: transparent;">if it&rsquo;s a short or long squeeze, and carries out the required action.</span>&nbsp;We&rsquo;re awaiting internal images to determine what IC is being used and&nbsp;<span style="-webkit-text-stroke-color: transparent;">how this method is implemented inside the phone</span>.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/ocean_6v_amazingsilver_squeeze_ui_575px.jpg" style="height: 400px; width: 234px;" /></a><span style="color: rgb(68, 68, 68); text-align: -webkit-center;">&nbsp;</span><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/ocean_perright_amazingsilver_squeeze_ui_575px.jpg" style="width: 207px; height: 400px;" /></a></p>
+
+<p>HTC offered a number of possible options for the squeeze: squeeze to selfie, squeeze to take a photo, squeeze to push to talk, squeeze to load Google Assistant, squeeze to launch any app, squeeze to open the camera, long squeeze to change to front camera, etc. The squeeze methodology will be enabled in two stages;&nbsp;at launch, a number of stock apps will be preconfigured with squeeze actions, and some of these will be configurable at the system level. Then&nbsp;<span style="color: rgb(68, 68, 68);">later in the year (we are told July) software will be made available&nbsp;</span>that will allow users to configure any app to take advantage of the squeeze: it will detect which app is loaded, and the user can define the squeeze as if they were tapping the&nbsp;screen or long pressing on a button.&nbsp;<span style="color: rgb(68, 68, 68);">HTC says&nbsp;Squeeze actions also work with gloves, so you can&nbsp;push to talk without removing your gloves to tap the screen.</span></p>
+
+<p>Edit: in the press event, we were told that the U11 uses eight super thin strain gauges to make the pressure measurement.&nbsp;</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/14949163210171921221100_575px.jpg" /></a></p>
+
+<p>In addition to the new squeeze actions, the HTC U11 will also support voice interaction. It will ship with Google Assistant and receive Amazon Alexa support in July (at least in the&nbsp;<span style="-webkit-text-stroke-color: transparent;">US, UK and Germany). Having two different voice agents on the phone could get confusing, but HTC claims it will provide an easy method for using the correct one. HTC sees a world with&nbsp;</span><span style="color: rgb(68, 68, 68);">many assistants working independently instead of a single all-powerful assistant, which is why the HTC U11 includes both, with another assistant to be named during&nbsp;the official launch in Taiwan.</span></p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="1" width="650">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="4" style="vertical-align: middle;">HTC U11</td>
+		</tr>
+		<tr class="tlblue">
+			<td style="vertical-align: middle;" width="20%">&nbsp;</td>
+			<td colspan="2" style="vertical-align: middle;" width="40%">HTC U11</td>
+			<td style="vertical-align: middle;" width="40%">HTC 10</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>SoC</strong></td>
+			<td colspan="2" style="vertical-align: middle; text-align: center;">Qualcomm Snapdragon 835<br />
+			<br />
+			4x Kryo&nbsp;280 Perf @ 2.45 GHz<br />
+			4x Kryo 280 Eff @ 1.90 GHz<br />
+			<br />
+			Adreno 540 @ 653 MHz&nbsp;</td>
+			<td colspan="1" style="vertical-align: middle; text-align: center;">Qualcomm Snapdragon 820<br />
+			<br />
+			2x Kryo Perf @ 2.15GHz<br />
+			2x Kryo Eff @ 1.6GHz<br />
+			<br />
+			Adreno 530</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Display</strong></td>
+			<td colspan="2" style="text-align: center;">5.5-inch 2560x1440 SLCD5</td>
+			<td style="text-align: center;">5.2-inch 2560x1440p SLCD5</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Dimensions</strong></td>
+			<td colspan="2" style="text-align: center;">153.9 x 75.9 x 7.9 mm<br />
+			169 grams</td>
+			<td style="text-align: center;">145.9 x 71.9 x 3-9mm<br />
+			161 grams</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Waterproof</strong></td>
+			<td colspan="2" style="text-align: center;">Yes (IP67)</td>
+			<td style="text-align: center;">No</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>RAM</strong></td>
+			<td style="text-align: center;">4 GB</td>
+			<td style="text-align: center;">6 GB</td>
+			<td style="text-align: center;">4 GB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>NAND</strong></td>
+			<td style="text-align: center;">64 GB UFS 2.1</td>
+			<td style="text-align: center;">128 GB UFS 2.1</td>
+			<td style="text-align: center;">32 GB / 64 GB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>MicroSD</strong></td>
+			<td colspan="2" style="text-align: center;">Yes</td>
+			<td style="text-align: center;">Yes</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Rear Camera</strong></td>
+			<td colspan="2" style="text-align: center;">12MP &quot;UltraPixel 3&quot; w/ OIS, f/1.7, 1.4&micro;m pixels</td>
+			<td style="text-align: center;">12MP w/ OIS and laser AF, f/1.8, 1.55&micro;m, 1/2.3&quot;<br />
+			(Sony IMX377)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Front Camera</strong></td>
+			<td colspan="2" style="text-align: center;">16MP</td>
+			<td style="text-align: center;">5MP w/ OIS, f/1.8, 1.34&micro;m<br />
+			(Samsung S5K4E6)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Battery</strong></td>
+			<td colspan="2" style="text-align: center;">3000 mAh<br />
+			non-replaceable</td>
+			<td style="text-align: center;">3000 mAh (11.56 Wh)<br />
+			non-replaceable</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Modem</strong></td>
+			<td colspan="2" style="vertical-align: middle; text-align: center;">Qualcomm X16 (Integrated)<br />
+			2G / 3G / 4G LTE</td>
+			<td colspan="1" style="vertical-align: middle; text-align: center;">Qualcomm X12 (Integrated)<br />
+			2G / 3G / 4G LTE</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>LTE Bands</strong></td>
+			<td colspan="2" style="vertical-align: middle; text-align: center;">1, 3, 4, 5, 7, 8, 12, 17, 20, 32<br />
+			38, 39, 40, 41</td>
+			<td colspan="1" style="vertical-align: middle; text-align: center;">Asia/EU: 1, 3, 5, 7, 8, 12, 20, 28, 32</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>SIM Size</strong></td>
+			<td colspan="2" style="text-align: center;">1x or 2x NanoSIM</td>
+			<td colspan="1" style="text-align: center;">1x NanoSIM</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Wireless</strong></td>
+			<td colspan="2" style="vertical-align: middle; text-align: center;">802.11ac,<br />
+			BT 4.2, NFC, GPS/GLONASS/BDS</td>
+			<td colspan="1" style="vertical-align: middle; text-align: center;">802.11ac 2x2 MIMO,<br />
+			BT 4.2, NFC,<br />
+			GPS/GLONASS (US, JP)<br />
+			GPS/GLONASS/BDS (EU, Asia)<br />
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Connectivity</strong></td>
+			<td colspan="2" style="vertical-align: middle; text-align: center;">USB 3.0 (5 Gbps), Type-C, Quick Charge 3.0</td>
+			<td colspan="1" style="vertical-align: middle; text-align: center;">USB 3.0 (5 Gbps) Type-C, 3.5mm headset</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Launch OS</strong></td>
+			<td colspan="2" style="text-align: center;">Android 7.1 with HTC Sense</td>
+			<td colspan="1" style="text-align: center;">Android 6 w/ HTC Sense</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Cost</strong></td>
+			<td colspan="2" style="text-align: center;">4 + 64GB: &pound;649</td>
+			<td style="text-align: center;">4 + 32GB: &pound;569</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The HTC U11 will be the third smartphone released with the <a href="http://www.anandtech.com/show/10948/qualcomm-snapdragon-835-kryo-280-adreno-540" target="_blank">Qualcomm Snapdragon 835 SoC</a>, following the Galaxy S8 family and the Xiaomi Mi 6 in China. The U11 will be using the S835 worldwide, including the US, because of&nbsp;the Snapdragon X16 modem&#39;s network compatibility.&nbsp;There will be three different antenna configurations to improve signal reception depending on the user&#39;s geographic region, but each phone will be able to work in every region. According to the spec sheet,&nbsp;only one of the SIM slots is capable of LTE Category 16 (1Gbps) on the downlink, whereas the second SIM will be limited to Category 15 (750Mbps).</p>
+
+<p><span style="color: rgb(68, 68, 68);">The SoC is backed with either 4GB or 6GB of LPDDR4 RAM&nbsp;and 64GB or 128GB of storage, respectively. HTC says it&#39;s using UFS NAND, although due to supply issues it&#39;s&nbsp;unwilling to state categorically if it will be UFS 2.0 or UFS 2.1 at this time. In that instance, it&rsquo;s best to expect UFS 2.0&nbsp;and consider it a plus if you get UFS 2.1. The 4GB/64GB option will be available worldwide, while&nbsp;the 6GB/128GB version will only be available&nbsp;in select markets.</span></p>
+
+<p><span style="-webkit-text-stroke-color: transparent;">Machine learning was&nbsp;</span>another feature&nbsp;HTC discussed, specifically being able to determine which smart assistant a user will need based on context. The Snapdragon 835 SoC&nbsp;will assist, especially for inference, and the idea is that the smartphone will learn by interacting&nbsp;with the user in order to make the correct judgment.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/ocean_6v_icewhite17apr17_575px.jpg" /></a></p>
+
+<p>The U11 comes with a 5.5-inch QHD (2560x1440) SLCD5 IPS display, with fairly large bezels above and below.&nbsp;It&rsquo;s a smartphone that certainly feels bigger than its&nbsp;5.5-inch screen suggests, so users of 5.7-5.9-inch units won&rsquo;t feel out of place. The larger bezels do&nbsp;help reduce false touches when holding the phone for a selfie or showing someone a photo/video, however&nbsp;(I&rsquo;m not trying to spin bezels into a positive per se, but they don&rsquo;t bother me personally that much). HTC says each display will be color calibrated at the factory, although it did not specify to what standard. There will be software options to make the color temperature&nbsp;warmer or cooler depending on personal preference, and there will also be an&nbsp;eye comfort mode.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/2017-05-10_10.41.59_575px.jpg" /></a></p>
+
+<p>One of the top features will be the IP67 water and dust resistance. In the flagship scene, some phones are perennially water resistant, while some flagship families will ignore the feature and others will flip-flop between them. There are tradeoffs when designing a smartphone to be water resistant, including seals and their&nbsp;affect&nbsp;on future repairability (most water-resistant smartphones get a super-low iFixit score, for example). Nonetheless, there are a number of users that will only ever buy a water resistant phone, and HTC advertises the IP67 rating for the U11. The touch screen is also configured to work when wet, and the squeeze actions work&nbsp;with gloves as well.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5619" target="_blank">HTC Galleries</a><div><a href="http://www.anandtech.com/Gallery/Album/5619#1" target="_blank"><img src="http://images.anandtech.com/galleries/5619/ocean_6v_amazingsilver17apr17_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5619#2" target="_blank"><img src="http://images.anandtech.com/galleries/5619/angle_left_back_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5619#3" target="_blank"><img src="http://images.anandtech.com/galleries/5619/angle_left_front_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5619#4" target="_blank"><img src="http://images.anandtech.com/galleries/5619/ocean_perleft_amazingsilver17apr17_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5619#5" target="_blank"><img src="http://images.anandtech.com/galleries/5619/angle_right_back_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5619#6" target="_blank"><img src="http://images.anandtech.com/galleries/5619/angle_right_front_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p>The U11 will have always-on microphones that capture audio from&nbsp;up to 6 feet away and consume only 1mA. The microphones are also&nbsp;advertised as &quot;50% more accurate,&quot;&nbsp;although it was not specified what it was being compared to. The software supports a voice unlock feature that allows&nbsp;<span style="-webkit-text-stroke-color: transparent;">different users to unlock the phone with their voices and</span><span style="-webkit-text-stroke-color: transparent;">&nbsp;integrates&nbsp;with Google Assistant. The U11 will use HTC&rsquo;s latest edition of BoomSound&nbsp;high-performance audio too, with a new &lsquo;Hi-Fi&rsquo; variant. HTC is claiming more power with this new version, where the chassis acts as a resonance chamber, supplementing the external speakers.&nbsp;We were shown a pseudo diagram of how the &lsquo;whole phone as a resonant chamber&rsquo; is meant to work, and through a tour of HTC&#39;s labs we were told that this comes down to one of the speakers using the inside of the phone as its resonance chamber.</span></p>
+
+<p style="text-align: center;"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/image003_575px.png" /></a></p>
+
+<p>Alongside BoomSound is HTC&rsquo;s USonic&nbsp;<span style="-webkit-text-stroke-color: transparent;">USB-C&nbsp;audio&nbsp;</span><span style="-webkit-text-stroke-color: transparent;">technology (sorry, no 3.5mm headphone jack)&nbsp;that performs&nbsp;echolocation inside your&nbsp;ears to determine customized EQ&nbsp;settings that match the headphones with your ear structure. This is a profile set on the phone when using the HTC headset, and can be saved to the cloud for use with future HTC devices. HTC will bundle a USB-C to 3.5mm audio adaptor with the phone, and&nbsp;HTC will also offer a special adaptor with an integrated high-performance DAC in the cable.</span></p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/7_showing_the_optical_lab_capable_of__sophisticated_lighting_simulations_575px.jpg" /></a></p>
+
+<p>The rear camera uses&nbsp;a 12MP UltraPixel 3 sensor with&nbsp;<span style="-webkit-text-stroke-color: transparent;">1.4 micron pixels</span><span style="-webkit-text-stroke-color: transparent;">, where each pixel can assist with phase-detection auto focus. It supports both OIS and&nbsp;EIS and comes with an&nbsp;f/1.7 lens assembly, which is one of the smallest f-stop values currently available on a smartphone camera. The camera supports a pro mode with manual control&nbsp;as well as&nbsp;slow motion video (1080p120) and 3D Sound recording. HTC is keen to promote that it scores 90 in DXOMark. The front-facing camera is also an UltraPixel sensor (it wasn&rsquo;t stated which version), coming in at 16MP with a 150-degree wide-angle lens designed for &quot;better selfies in low light.&quot;</span></p>
+
+<p style="text-align: center;"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/image004_575px.png" /></a></p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/3_samples_showing_the_glass_processes_of_the_liquid_surface_2_575px.jpg" /></a><br />
+<em>Stages of how the Gorilla Glass is formed</em></p>
+
+<p>For its &quot;<span style="-webkit-text-stroke-color: transparent;">liquid surface design,&quot; which mimics the visual properties of a liquied, HTC covers both the front and back with Gorilla Glass 5.&nbsp;</span><span style="color: rgb(68, 68, 68);">The manufacturing process that adds&nbsp;color into the 3D glass is called&nbsp;</span>&quot;Spectrum Hybrid Deposition,&quot; and in the devices we saw it gave them a very shiny and metallic look&nbsp;(it also attracts&nbsp;fingerprints very easily). Five colors should be available at launch, but may be region dependent: Ice White, Brilliant Blue, Sapphire Blue, Solar Red, and Amazing Silver. The last two will have special properties &ndash; the Solar Red will shift from a bronze color to a red color, depending on the angle you see the device, and the Amazing Silver will do something similar. A clear case will be provided in the box.</p>
+
+<p style="text-align: center;"><a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/2017-05-10_11.02.49_575px.jpg" style="height: 250px; width: 333px;" /></a>&nbsp;<a href="http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11"><img alt="" src="http://images.anandtech.com/doci/11391/2017-05-10_10.41.35_575px.jpg" style="height: 250px; width: 333px;" /></a></p>
+
+<p>The battery will come in as 3000mAh, and rather than promoting any length of time for standby or use, HTC is claiming a 45% increase in Web browsing time over the previous HTC flagship along with 24 hours of&nbsp;talk time. This will likely be down to the more efficient SoC, but efficiency changes in the display are likely to have an effect too. The chipset will support Qualcomm&rsquo;s Quick Charge 3.0 as well. There is not any wireless charging, as HTC is waiting for the technology to develop further.</p>
+
+<p>Pricing for the U11 is expected to be announced at the launch event (see our live blog), although we were told to expect to see the 4GB/64GB edition to come in at &pound;679 in the UK (approx. US$800 without tax).</p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/10468/the-htc-10-review">The HTC 10 Review</a></li>
+	<li><a href="http://www.anandtech.com/show/10691/htc-announces-desire-10-pro-and-desire-10-lifestyle">HTC Announces Desire 10 Pro and Desire 10 Lifestyle</a></li>
+	<li><a href="http://www.anandtech.com/show/10827/htc-announces-the-htc-bolt-a-sprint-exclusive-smartphone-for-lte-plus">HTC Announces the HTC Bolt - A Sprint-Exclusive Smartphone for LTE Plus</a></li>
+	<li><a href="http://www.anandtech.com/show/11032/htc-announces-htc-u-play-and-htc-u-ultra">HTC Announces New Phones For U: HTC U Play and HTC U Ultra </a></li>
+</ul>
+]]></description>
+    <link>http://www.anandtech.com/show/11391/welcome-to-the-smartphone-squeeze-htc-launches-the-u11</link>
+ 	<pubDate>Tue, 16 May 2017 03:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11391:news</guid>
+ 	<category><![CDATA[ Smartphones]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>HTC Squeeze Live Blog (Starts 2am ET) </title>
+    <dc:creator>Ian Cutress</dc:creator>    
+    <description><![CDATA[ <p>We&#39;re here in Taiwan for the launch of HTC&#39;s newest Flagship smartphone! Live Blog away!&nbsp;</p>
+]]></description>
+    <link>http://www.anandtech.com/show/11394/htc-squeeze-live-blog-starts-2am-et-</link>
+ 	<pubDate>Tue, 16 May 2017 01:39:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11394:news</guid>
+ 	<category><![CDATA[ Smartphones]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 14.5: Zalman Provides Power Supplies, Cases, and Peripherals</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11393/at20-giveaway-day-145-zalman-psu-neo9-case-peripherals"><img src="http://images.anandtech.com/doci/11393/678x452_575px.jpg" alt="" /></a></p><p><p>Taking us into our afternoon giveaway on this busy Monday is Zalman. The long-time vendor of PC components ranging from cases and PSUs to coolers and peripherals has sent over a real smorgasbord of products for us to giveaway this afternoon. Altogether we have a pair of Z9 Neo cases, a pair of K900M keyboards, a pair of ZM750-EBT power supplies, and finally four of the company&rsquo;s ZM-GM4 mouse.</p>
+
+<ul>
+	<li>Zalman Z9 Neo White Mid Tower Case</li>
+	<li>Zalman Z9 Neo Black Mid Tower Case</li>
+	<li>Zalman ZM-K900M White Edition Mechanical Keyboard (Brown Switches)</li>
+	<li>Zalman ZM-K900M Mechanical Keyboard (Blue Switches)</li>
+	<li>Zalman ZM-GM4 Mouse (#1)</li>
+	<li>Zalman ZM-GM4 Mouse (#2)</li>
+	<li>Zalman ZM-GM4 Mouse (#3)</li>
+	<li>Zalman ZM-GM4 Mouse (#4)</li>
+	<li>Zalman &nbsp;ZM750-EBT PSU (#1)</li>
+	<li>Zalman&nbsp; ZM750-EBT PSU (#2)</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/7Olf4/the-anandtech-20th-anniversary-celebration-zalman-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; Zalman Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Zalman Z9 Neo Case</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11393/at20-giveaway-day-145-zalman-psu-neo9-case-peripherals"><img alt="" src="http://images.anandtech.com/doci/11393/z9neo_575px.jpg" /></a></p>
+
+<p>Starting things off, we have <a href="http://www.zalman.co.kr/contents/products/view.html?no=15">Zalman&rsquo;s Z9 Neo case</a> in both black and white. This ATX mid-tower case is 19.3&rdquo; tall and offers an ample amount of build room, allowing video cards that run up to 16.5&rdquo; long, or nearly the entire length of the case. In terms of cooling, the case comes with a rather sizable collection of fans, with 5 120mm fans pre-installed altogether, split between the front intake and top + rear exhausts. Meanwhile the case can house a pair of 3.5&rdquo; and another pair of 2.5&rdquo; drives, along with a pair of 5.25&rdquo; bays for further use.</p>
+
+<h3>Zalman ZM-K900M Mechanical Keyboard</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11393/at20-giveaway-day-145-zalman-psu-neo9-case-peripherals"><img alt="" src="http://images.anandtech.com/doci/11393/k900m_575px.jpg" /></a></p>
+
+<p>Next up on our prize list is <a href="http://www.zalman.co.kr/contents/products/view.html?no=6">Zalman&rsquo;s ZM-K900M mechanical keyboard</a>. Based around Kailh switches &ndash; our black keyboard uses Blue switches while the white keyboard uses Brown switches &ndash; the gaming-focused keyboard also supports programmable keyboard macro functionality, including the ability to simulate mouse clicks. And, like many gaming keyboards these days, the K900M also includes fully customizable RGB LED backlighting.</p>
+
+<h3>Zalman ZM-GM4 Mouse</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11393/at20-giveaway-day-145-zalman-psu-neo9-case-peripherals"><img alt="" src="http://images.anandtech.com/doci/11393/zm-gm4_575px.jpg" /></a></p>
+
+<p>Third up, we have <a href="http://www.zalman.co.kr/contents/products/view.html?no=78">Zalman&rsquo;s ZM-GM4 mouse</a>. The laser gaming mouse uses Avago&rsquo;s A9800 sensor, which among other features allows for the mouse&rsquo;s DPI to be switched on the fly. In terms of the build of the mouse itself, it features a customizable design that allows length, width, and weight to all be tuned to the desired specs. Finally, along with the standard mouse buttons, the ZM-GM4 also features software remapping for its 10 buttons, allowing them to be reassigned to other functions if desired.</p>
+
+<h3>Zalman ZM750-EBT Power Supply</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11393/at20-giveaway-day-145-zalman-psu-neo9-case-peripherals"><img alt="" src="http://images.anandtech.com/doci/11393/zm750_575px.jpg" /></a></p>
+
+<p>Our last prizes of the day, we have two of <a href="http://www.zalman.co.kr/contents/products/view.html?no=33">Zalman&rsquo;s ZM750-EBT</a> power supplies. &nbsp;This semi-modular power supply includes fixed cables for ATX power, CPU power, and one PCIe power cable, meanwhile the rest of the PCIe and all of the peripheral cables are modular. The PSU is 80Plus Gold rated, and can deliver up to the full 750W over its sole 12v rail. Cooling for the PSU is provided by a 135mm fluid dynamic bearing fan.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in tomorrow for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11393/at20-giveaway-day-145-zalman-psu-neo9-case-peripherals</link>
+ 	<pubDate>Mon, 15 May 2017 14:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11393:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 14: PowerColor Unleashes the Red Devil RX 570 Video Card</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11392/at20-giveaway-day-14-powercolor-red-devil-rx-570"><img src="http://images.anandtech.com/doci/11392/678x452_575px.jpg" alt="" /></a></p><p><p>Good morning everyone on what is now day 14 of our <a href="http://www.anandtech.com/show/11212/celebrating-anandtechs-20th-anniversary/2">20 day giveaway celebration of AnandTech&rsquo;s 20<sup>th</sup> anniversary</a>. This is our last full week of giveaways, so let&rsquo;s get started!</p>
+
+<p>Kicking off this week we have PowerColor. Principally known for their graphics products, PowerColor is one of AMD&rsquo;s long-time exclusive partners. To that end, the company has sent over a pair of their recently launched Red Devil Radeon RX 570 cards, which are the company&rsquo;s highest-performance RX 570 cards. So for those of you looking for a solid 1080p gaming card, today&rsquo;s your day.</p>
+
+<ul>
+	<li>PowerColor Red Devil Radeon RX 570 (#1)</li>
+	<li>PowerColor Red Devil Radeon RX 570 (#2)</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/GtWbK/the-anandtech-20th-anniversary-celebration-powercolor-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; PowerColor Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>PowerColor Red Devil Radeon RX 570</h3>
+
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="650">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="5">PowerColor Red Devil RX 570 Specifications</td>
+		</tr>
+		<tr class="tlblue">
+			<td width="187">&nbsp;</td>
+			<td align="center" valign="middle" width="230">PowerColor Red Devil<br />
+			RX 570</td>
+			<td align="center" valign="middle" width="229">AMD Radeon RX 570<br />
+			(Reference)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Boost Clock</strong></td>
+			<td align="center" valign="middle">1320MHz</td>
+			<td align="center" valign="middle">1244MHz</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Memory Clock</strong></td>
+			<td align="center" valign="middle">7Gbps</td>
+			<td align="center" valign="middle">7Gbps</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>VRAM</strong></td>
+			<td align="center" valign="middle">4GB</td>
+			<td align="center" valign="middle">4GB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>TDP</strong></td>
+			<td align="center" valign="middle">N/A</td>
+			<td align="center" valign="middle">150W</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Power Connectors</strong></td>
+			<td align="center" valign="middle">8pin</td>
+			<td align="center" valign="middle">N/A</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Length</strong></td>
+			<td align="center" valign="middle">12.2&quot;</td>
+			<td align="center" valign="middle">N/A</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Width</strong></td>
+			<td align="center" valign="middle">Double Slot</td>
+			<td align="center" valign="middle">N/A</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Cooler Type</strong></td>
+			<td align="center" valign="middle">Open Air</td>
+			<td align="center" valign="middle">N/A</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>At the high-end of PowerColor&rsquo;s Radeon RX 500 series lineup is the Red Devil series, the company&rsquo;s gaming-focused, factory overclocked cards. The <a href="http://www.powercolor.com/global/products_features.asp?id=629">Red Devil RX 570</a> is PowerColor&rsquo;s 1080p-focused card, shipping with 4GB of VRAM and sporting a factory overclock of 1320MHz, 76MHz over AMD&rsquo;s reference clock. Internally, the card is built with the company&rsquo;s Gold PowerKIT VRMs in a 6+1 phase configuration, and while the company doesn&rsquo;t state an official TDP, it&rsquo;s clearly a card designed to go a good deal higher than AMD&rsquo;s reference 150W design.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11392/at20-giveaway-day-14-powercolor-red-devil-rx-570"><img alt="" src="http://images.anandtech.com/doci/11392/rd570_575px.jpg" /></a></p>
+
+<p>Cooling for the card is provided by one of PowerColor&rsquo;s Double Blade III triple fan coolers, which sports a trio of 80mm diameter fans. Consequently the card is quite large &ndash; about 12.2 inches in length &ndash; with the heatsink extending well past the PCB itself. PowerColor&rsquo;s cooler also sports support for zero fan speed idle (under the &ldquo;Mute Fan&rdquo; name), which should play especially well with the sizable mass that is the heatsink. Finally, for further noise control, the card ships with a BIOS selection switch that allows switching between its default BIOS, and a 1270MHz BIOS tuned for even quieter operation.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in this afternoon for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11392/at20-giveaway-day-14-powercolor-red-devil-rx-570</link>
+ 	<pubDate>Mon, 15 May 2017 11:30:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11392:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Aquantia Launch AQtion 5G/2.5G/1G Multi-Gigabit Ethernet Cards (NICs) for PCIe</title>
+    <dc:creator>Ian Cutress</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics"><img src="http://images.anandtech.com/doci/11368/aquantia-shoot2-185_575px.jpg" alt="" /></a></p><p><p>Late last year, Aquantia launched their range of multi-gigabit Ethernet controllers. These were controllers that could enable 1G, 2.5G and 5G connections over standard RJ45 connectors and Cat5e cabling. At the time, the two launched controllers were offered to OEMs to add into their custom motherboard builds, such as enterprise focused machines with a 5G office network in place. We have also seen motherboard manufacturers pick up the mantle, with consumer motherboards such as the <a href="http://amzn.com/s/?tag=anandtech01-20&amp;field-keywords=Z270 Supercarrier">ASRock Z270 SuperCarrier</a> and the <a href="http://amzn.com/s/?tag=anandtech01-20&amp;field-keywords=ASRock X370 Gaming">ASRock X370 Gaming</a>, using the 5G Aquantia AQtion AQC108 chip.&nbsp;</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics"><img alt="" src="http://images.anandtech.com/doci/11368/aquantia-shoot2-139_575px.jpg" /></a></p>
+
+<p>Today&#39;s announcement cements Aquantia&#39;s lead in the multi-gigabit Ethernet space, despite already having an apparent 2 year lead over other rivals in this space (it helps that Aquantia helped define a major part of the 2.5G/5G specifications in the NBASE-T Alliance). Aquantia is launching two PCIe-based single-port network cards using their AQC108 and AQC107 controllers.&nbsp;</p>
+
+<table align="center" border="0" cellpadding="3" cellspacing="0" style="width:500px;">
+	<tbody>
+		<tr class="tgrey">
+			<td colspan="3" style="text-align: center;">Aquantia AQtion Multi-Gigabit NICs</td>
+		</tr>
+		<tr class="tlblue">
+			<td style="text-align: center; width: 50%;">Card</td>
+			<td style="text-align: center; width: 25%;">AQN-107</td>
+			<td style="text-align: center; width: 25%;">AQN-108</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>Controller</strong></td>
+			<td style="text-align: center;">AQC-107</td>
+			<td style="text-align: center;">AQC-108</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>100BASE-T</strong></td>
+			<td style="text-align: center;">Yes</td>
+			<td style="text-align: center;">Yes</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>1000BASE-T</strong></td>
+			<td style="text-align: center;">Yes</td>
+			<td style="text-align: center;">Yes</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>2.5GBASE-T</strong></td>
+			<td style="text-align: center;">Yes</td>
+			<td style="text-align: center;">Yes</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>5GBASE-T</strong></td>
+			<td style="text-align: center;">Yes</td>
+			<td style="text-align: center;">Yes</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>10GBASE-T</strong></td>
+			<td style="text-align: center;">Yes</td>
+			<td style="text-align: center;">No</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>Ports</strong></td>
+			<td style="text-align: center;">1</td>
+			<td style="text-align: center;">1</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>Price (from Aquantia)</strong></td>
+			<td style="text-align: center;">$127</td>
+			<td style="text-align: center;">$99</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>Release Date</strong></td>
+			<td style="text-align: center;">Soon</td>
+			<td style="text-align: center;">Soon</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="text-align: center;"><strong>Potential Resellers</strong></td>
+			<td style="text-align: center;">ASUS<br />
+			GIGABYTE</td>
+			<td style="text-align: center;">?</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Both of these cards equip a system with a single port, with the AQC108 based card supporting BASE-T standards from 100M to 1G, 2.5G and 5G and uses a PCIe 3.0 x1 interface. The beefier AQC107 based card supports the same standards as well as 10G, and uses a PCIe 3.0 x4 interface (both cards will work down to PCIe 2.0 x1, with reduced data rates). Drivers for both cards will be available for the Windows 7/8/8.1/10 (also as part of the Windows Update solution) as well as varieties of Linux (3.10, 3.12, 3.2, 4.2 and 4.4).</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics"><img alt="" src="http://images.anandtech.com/doci/11368/cards_575px.png" /></a></p>
+
+<p>The idea behind these cards is the same as other network cards - to be able to offer functionality without having to embed the controller on the motherboard or into a prebuilt/legacy system. In the consumer world, we have plenty of offerings of Intel and Realtek based gigabit Ethernet cards (even Killer NICs back in the day), and Intel commands the 10GBASE-T cards with its X540 and X550 series. Aquantia is hoping to shake up this market, particularly for businesses and end users willing to invest in 2.5G/5G infrastructure.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics"><img alt="" src="http://images.anandtech.com/doci/11368/nic_product_intro_presentation-page-011_575px.jpg" /></a></p>
+
+<p>One of the big questions surrounding the transition to 2.5G/5G for home and SMB is infrastructure - making sure the network backbone, switches and access points are all capable. The major enterprise network players are already deploying multi-gigabit Ethernet networks to their customers, however it will be a bit longer before commercially available switches for consumers are available. One of the major drawbacks investing in 10GBASE-T in the home right now, aside from the $100-200 per port PCIe cards, is the cost of the switches. This is something Aquantia isn&#39;t doing directly, but we have been told that they are working with partners (the typical enterprise players at least) to solve. The depth of those solutions remain to be seen (we&#39;ve been told similar by 10G switch vendors who had a different interpretation of &#39;mass market&#39;), but ultimately for this technology to become ubiquitous, we need to see cheaper switches ($25/port), followed by cheap implementations, as we have seen in the last 15-20 years with gigabit Ethernet.&nbsp;</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics"><img alt="" src="http://images.anandtech.com/doci/11368/nic_product_intro_presentation-page-009_575px.jpg" /></a></p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics"><img alt="" src="http://images.anandtech.com/doci/11368/2017-01-04_09.52.19_678x452_575px.jpg" /></a></p>
+
+<p>Final pricing is set at $99 and $127, with the 5G card being cheaper over the 10G card. Aquantia stated in the briefing that they are planning to sell the cards direct to consumers, or OEMs can brand the cards in their own style (eg imagine gaming based cards, as we&#39;ve seen from Gigabyte already, or ASUS and their <a href="https://rog.asus.com/articles/coming-soon/the-poseidon-gtx-1080-ti-and-other-new-rog-products-debut-at-jtr-outshine-the-competition/">recently announced ROG </a><a href="https://rog.asus.com/articles/coming-soon/the-poseidon-gtx-1080-ti-and-other-new-rog-products-debut-at-jtr-outshine-the-competition/">Areion</a><a href="https://rog.asus.com/articles/coming-soon/the-poseidon-gtx-1080-ti-and-other-new-rog-products-debut-at-jtr-outshine-the-competition/"> 10G</a> card using the AQC107 chip) for their customers. It would be interesting to see if a manufacturer will offer a multi-port card by placing 2-4 chips on the same PCB, even if it requires a basic PLX switch. &nbsp;Four 1G/2.5G/5G/10G ports for $549, anyone?</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5608" target="_blank">Aquantia AQtion NICs</a><div><a href="http://www.anandtech.com/Gallery/Album/5608#1" target="_blank"><img src="http://images.anandtech.com/galleries/5608/aquantia-shoot2-126_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5608#2" target="_blank"><img src="http://images.anandtech.com/galleries/5608/aquantia-shoot2-128_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5608#3" target="_blank"><img src="http://images.anandtech.com/galleries/5608/aquantia-shoot2-132_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5608#4" target="_blank"><img src="http://images.anandtech.com/galleries/5608/aquantia-shoot2-183_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5608#5" target="_blank"><img src="http://images.anandtech.com/galleries/5608/aquantia-shoot2-185_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5608#6" target="_blank"><img src="http://images.anandtech.com/galleries/5608/aquantia-shoot2-187_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p>Review samples are currently being circulated, and I&#39;m discussing with Ganesh the best way to test them, especially as we don&#39;t have any 5G switch equipment. We&#39;re also looking at angles to test these ports as they appear on motherboards too. Aquantia expects the cards to be on shelves shortly, with branded cards to follow.&nbsp;</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5609" target="_blank">Aquantia Press Slide Deck</a><div><a href="http://www.anandtech.com/Gallery/Album/5609#1" target="_blank"><img src="http://images.anandtech.com/galleries/5609/nic_product_intro_presentation-page-001_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5609#2" target="_blank"><img src="http://images.anandtech.com/galleries/5609/nic_product_intro_presentation-page-002_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5609#3" target="_blank"><img src="http://images.anandtech.com/galleries/5609/nic_product_intro_presentation-page-003_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5609#4" target="_blank"><img src="http://images.anandtech.com/galleries/5609/nic_product_intro_presentation-page-004_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5609#5" target="_blank"><img src="http://images.anandtech.com/galleries/5609/nic_product_intro_presentation-page-005_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5609#6" target="_blank"><img src="http://images.anandtech.com/galleries/5609/nic_product_intro_presentation-page-006_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/11024/gigabyte-exhibits-an-aquantia-aqc107-based-10g-ethernet-pcie-card">GIGABYTE Exhibits an Aquantia AQC107 based 10G Ethernet PCIe Card</a></li>
+	<li><a href="http://www.anandtech.com/show/10908/aquantia-launches-new-2g-5g-multi-gigabit-network-controllers-for-pcs">Aquantia Launches New 2.5G/5G Multi-Gigabit Network Controllers for PCs</a></li>
+	<li><a href="http://www.anandtech.com/show/10501/consumer-10gbase-t-options-motherboards-with-10g-builtin">Consumer 10GBASE-T&nbsp;Options: Motherboards with 10G Built-In</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11368/aquantia-launch-aqtion-5g25g1g-nics</link>
+ 	<pubDate>Mon, 15 May 2017 08:30:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11368:news</guid>
+ 	<category><![CDATA[ Networking]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Western Digital: Sales of Helium-Filled HDDs Accelerating, 15M Sold So Far</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11379/wd-sales-of-helium-hdds-accelerating"><img src="http://images.anandtech.com/doci/11379/hgst_12_tb_hdd_575px.jpg" alt="" /></a></p><p><p>Western Digital recently announced that it had sold 15 million helium-filled hard drives, indicating that sales of such HDDs are accelerating. Since the launch of the HGST HelioSeal platform about 3.5 years ago, it has enabled HGST to make a number of technological improvements to its hard drives in terms of their capacities. It is noteworthy that while Western Digital is expanding usage of helium, it has not announced plans to expand usage of shingled-magnetic recording (SMR).</p>
+
+<p>HGST, a subsidiary of Western Digital, started volume shipments of its first-generation helium-filled Ultrastar He-series hard drives in November 2013. HGST sold about a million HelioSeal HDDs in the first 1.5 years on the market, but once numerous operators of large cloud datacenters qualified such drives, their sales started to accelerate. For example, HGST supplied 1.1 million of helium-filled HDDs in Q3 2015 &mdash; more than in their first six quarters on the market. Meanwhile back in October of last year, Western Digital said it had sold 10 million&nbsp;HelioSeal hard drives. As it appears from the recent comments made by the company, in just a couple of quarters it has managed to sell another five million helium HDDs with cumulative shipments of such drives topping 15 million units since late 2013.</p>
+
+<p>&ldquo;I am pleased to note that we have now shipped approximately 15 million helium hard drives cumulatively since the platform&#39;s launch four years ago,&rdquo; <a href="https://seekingalpha.com/article/4066502-western-digital-wdc-q3-2017-results-earnings-call-transcript?part=single">said</a> Michael D. Cordano, president of Western Digital, during a conference call with investors and analysts.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11379/wd-sales-of-helium-hdds-accelerating"><img alt="" src="http://images.anandtech.com/doci/11379/sales_wd_hgst_helium_hdds_1_575px.png" /></a></p>
+
+<p>There are multiple reasons why sales of HelioSeal-based HDDs are accelerating. First, the demand for datacenter hard drives is growing, and operators have finally qualified helium-filled HDDs for new deployments. Second, with the systematic increase of drive capacities (a new capacity point is launched every 12 &ndash; 18 months), Western Digital can gradually increase shipments of helium-filled drives to existing and new deployments. Third, Western Digital is expanding usage of helium beyond datacenter-class drives to <a href="http://www.anandtech.com/show/10106/western-digital-introduces-its-consumer-helium-drives">NAS and even consumer HDDs</a>.</p>
+
+<p>From technology standpoint, HelioSeal has made quite a bit of progress in the recent 3.5 years. Initially, it enabled HGST to place seven platters into a single 3.5&rdquo; HDD and offer a 6 TB drive, which in turn had lower power consumption and higher performance than various competitors. Installation of seven platters into one drive required HGST to redesign some of the internal HDD components, and this is always a challenge. Moreover, late last year HGST introduced an even denser hard drive, the Ultrastar He12 with eight platters, which again required the company to redevelop internal architecture of the HDD.</p>
+
+<p>When it comes to practical progress, the helium-filled Ultrastar drives doubled their capacity from 6 TB in Q4 2013 to 12 TB in Q1 2017. By contrast, conventional air-filled PMR-based drives have not yet made it past 8 TB, increasing their capacity by 33% from 6 TB in Q1 2014. Meanwhile, if we take the SMR-based Ultrastar He12 with 14 TB capacity into account, then the progress will seem quite impressive as well (a 75% increase from <a href="http://www.anandtech.com/show/11315/seagate-ships-35th-millionth-smr-hdd-confirms-hamrbased-hard-drives-in-late-2018">8 TB in August 2013</a> to 14 TB in 2H 2017).</p>
+
+<p>Speaking of SMR, it does not look like Western Digital is eager to share its plans regarding usage of the technology.</p>
+
+<p>&ldquo;Shingle [magnetic recording] has been a little bit more limited in terms of the applications because of some of the performance implications of that and that sort of thing,&rdquo; said Stephen Milligan, CEO of Western Digital. &ldquo;We feel comfortable with where we are at in terms of SMR transition and the applicability and the drives that we are providing to our customers.&rdquo;</p>
+
+<p>Unlike drive-managed SMR HDDs from Seagate, SMR HDDs from Western Digital should be managed by hosts and are therefore used only for active archive/deep-archive applications that can support it. This reduces their addressable market, but the company still sells plenty of them: 20 &ndash; 35% of data stored today belongs to the two aforementioned categories. Meanwhile, Seagate offers drive-managed SMR-based HDDs for both consumers and datacenters, something that Western Digital does not. For the time being at least, it looks like the company is not planning on disclosing any kind of roadmap for drive-managed SMR devices.</p>
+
+<p>Related Reading:</p>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/11298/western-digital-starts-shipments-of-hgst-ultrastar-he12-12-tb-hdds">Western Digital Starts Shipments of HGST Ultrastar He12 12 TB HDDs</a></li>
+	<li><a href="http://www.anandtech.com/show/10106/western-digital-introduces-its-consumer-helium-drives">Western Digital Introduces Its First Helium-Filled HDDs for Consumer Applications</a></li>
+	<li><a href="http://www.anandtech.com/show/11261/western-digital-expands-purple-lineup-with-a-10-tb-heliumfilled-hdd">Western Digital Expands Purple Lineup with a 10 TB Helium-Filled HDD</a></li>
+	<li><a href="http://www.anandtech.com/show/11199/seagate-announces-enterprise-capacity-v7-12-tb-hdd">Seagate Announces Enterprise Capacity 12 TB HDD: 2nd-Gen Helium-Filled Hard Drives</a></li>
+	<li><a href="http://www.anandtech.com/show/10541/western-digital-adds-helium-filled-wd-gold-10-tb-hdd-to-lineup">Western Digital Adds Helium-Filled WD Gold 10 TB HDD to Lineup</a></li>
+	<li><a href="http://www.anandtech.com/show/11315/seagate-ships-35th-millionth-smr-hdd-confirms-hamrbased-hard-drives-in-late-2018">Seagate Ships 35th Millionth SMR HDD, Confirms HAMR-Based Drives in Late 2018</a></li>
+	<li><a href="http://www.anandtech.com/show/11084/seagate-confirms-plans-for-12-tb-hdd-in-near-future-16-tb-hdd-due-in-2018">Seagate Confirms Plans for 12 TB HDD in Near Future, 16 TB HDD Due in 2018</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11379/wd-sales-of-helium-hdds-accelerating</link>
+ 	<pubDate>Sat, 13 May 2017 15:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11379:news</guid>
+ 	<category><![CDATA[ HDD]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Lian Li Launches ASUS ROG-Inspired PC-O11WGX Case: Two Chambers, E-ATX, USB-C</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11378/lian-li-launches-pco11wgx-asus-high-end-case"><img src="http://images.anandtech.com/doci/11378/o11wgx_001-678_575px.png" alt="" /></a></p><p><p>Lian Li has introduced its new chassis for advanced desktops, the&nbsp;PC-O11WGX. The company&#39;s latest case has two chambers for more efficient cooling, is compatible with motherboards in the E-ATX form-factor, can fit in nine storage devices in drive form-factor, three 360-mm radiators and has a USB 3.1 Type-C header on its front panel. Stylistically, the case comes with a front panel featuring ASUS ROG stylings, which means incorporating Mayan patterns. Being aimed at modders and overclockers, the Lian Li PC-O11WGX is everything but affordable.</p>
+
+<p>The <a href="http://www.lian-li.com/en/dt_portfolio/pc-o11wgx/">Lian Li PC-O11 WGX</a> chassis follows the latest trends in PC building and is designed to be suitable for highly-modded systems while also being very efficient in terms of cooling and compatibility. On the outside, the case has two panels made of tempered glass, exposing the key components of the computer. Inside, like many other contemporary PC cases, the PC-O11WGX uses a two-chamber design: one of the compartments housing the motherboard, graphics card, memory, and cooling, another accommodating the power supply, cables, along with nine HDDs and/or SSDs.</p>
+
+<p><a href="http://www.anandtech.com/show/11378/lian-li-launches-pco11wgx-asus-high-end-case"><img alt="" src="http://images.anandtech.com/doci/11378/lianli_case_open_0_575px.jpg" /></a></p>
+
+<p>The new case from Lian Li can fit in a motherboard in ATX, E-ATX, Mini-ITX and Micro-ATX form-factors with up to eight add-in cards. Moreover, for those who like to see/expose their graphics cards, Lian Li supplies a special riser cable to install the graphics card vertically. The maximum length of the graphics card is 430 mm, so, not only single-GPU, but dual-GPU boards are supported with plenty of space left. Meanwhile, the maximum height of the CPU cooling system is 150 mm, so not all mega-coolers can fit in (e.g., Thermalright&rsquo;s <a href="http://thermalright.com/product/archon-ib-e-x2/">Archon IB-E X2</a> cannot).</p>
+
+<p>Speaking of cooling, Lian Li built the PC-O11 WGX primarily with liquid cooling in mind: the chassis has space for three 360-mm radiators for closed-loop or custom liquid coolers, enabling its owner to build a gaming system with a HEDT CPU, a couple of graphics cards, and then cool each of those components using its own LCS (or build one LCS with three radiators if necessary). To provide enough power for everything, the case can accommodate a PSU that is up to 430 mm long.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11378/lian-li-launches-pco11wgx-asus-high-end-case"><img alt="" src="http://images.anandtech.com/doci/11378/lianli_case_open_1_575px.jpg" /></a></p>
+
+<p>Since we are talking about a high-end chassis, the PSU and HDD/SSD mounts are equipped with rubber vibration dampers, whereas the top and bottom panels are equipped with mesh dust filters (unclear whether they are removable though).</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="95%">
+	<tbody>
+		<tr>
+			<td class="contentwhite" colspan="3" style="height:46px;"><strong>Lian Li PC-O11WGX</strong></td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>Motherboard Size </strong></td>
+			<td>ATX, E-ATX, Micro-ATX, Mini-ITX</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="2"><strong>Drive Bays </strong></td>
+			<td><strong>External </strong></td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td><strong>Internal </strong></td>
+			<td>4 &times; 3.5&quot; and 4 &times; 2.5&quot;</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="5"><strong>Cooling </strong></td>
+			<td><strong>Front </strong></td>
+			<td>3 &times; 120 mm/1 &times; 360 mm</td>
+		</tr>
+		<tr>
+			<td><strong>Rear </strong></td>
+			<td>2 &times; 80 mm</td>
+		</tr>
+		<tr>
+			<td><strong>Top </strong></td>
+			<td>2 &times; 120 mm</td>
+		</tr>
+		<tr>
+			<td><strong>Middle</strong></td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td><strong>Bottom </strong></td>
+			<td>3 &times; 120 mm</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="5"><strong>Radiator Support </strong></td>
+			<td><strong>Front </strong></td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td><strong>Rear </strong></td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td><strong>Top </strong></td>
+			<td>1 &times; 360 mm</td>
+		</tr>
+		<tr>
+			<td><strong>Middle</strong></td>
+			<td>2 &times; 360 mm</td>
+		</tr>
+		<tr>
+			<td><strong>Bottom </strong></td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>I/O Port </strong></td>
+			<td>1 &times; USB-c 3.1, 2 &times; USB 3.0, 1 &times; Headphone, 1 &times; Mic</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>Power Supply Size </strong></td>
+			<td>Up to 430 mm</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>Dimensions </strong></td>
+			<td>W: 277 mm &times; H: 506 mm &times; D: 457 mm</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>Colors</strong></td>
+			<td>Grey</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>Features</strong></td>
+			<td>Glass front and side panels</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2"><strong>Price </strong></td>
+			<td>$319</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Lian Li says that ASUS has certified the case, guaranteeing that all the ROG-family components will fit in and will work flawlessly. This is not the first ROG-certified chassis from Lian Li - and arguably it&#39;s more of a co-branding exercise than any kind of stringent technical qualification - but the additional styling and verification from ASUS engineers never hurts.</p>
+
+<p>The Lian Li PC-O11WGX computer chassis will be available in North America in mid-May for $319. The price of the case is rather high, but since we are dealing with a top-of-the-range product aimed at modders and performance enthusiasts, it is not surprising.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5614" target="_blank">Lian Li PC-O11WGX</a><div><a href="http://www.anandtech.com/Gallery/Album/5614#1" target="_blank"><img src="http://images.anandtech.com/galleries/5614/lianli_case_open_2_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5614#2" target="_blank"><img src="http://images.anandtech.com/galleries/5614/o11wgx_013_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5614#3" target="_blank"><img src="http://images.anandtech.com/galleries/5614/o11wgx_014_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5614#4" target="_blank"><img src="http://images.anandtech.com/galleries/5614/o11wgx_004_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5614#5" target="_blank"><img src="http://images.anandtech.com/galleries/5614/o11wgx_015_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5614#6" target="_blank"><img src="http://images.anandtech.com/galleries/5614/o11wgx_012_thumb.png" width="85" height="85" border="0"/></a></div></div></p>
+
+<p>Related Reading:</p>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/10808/lian-li-pc-q37-mini-itx-chassis-announced">Lian Li PC-Q37 Announced: Two-Stage Mini-ITX Chassis with Tempered Glass</a></li>
+	<li><a href="http://www.anandtech.com/show/10884/gigabyte-expands-xtreme-gaming-lineup-with-xc700w-and-xc300w-chassis">Gigabyte Expands Xtreme Gaming Lineup with XC700W and XC300W Chassis</a></li>
+	<li><a href="http://www.anandtech.com/show/10650/the-corsair-carbide-600q-case-review">The Corsair Carbide 600Q Case Review: Upside Down But Right On</a></li>
+	<li><a href="http://www.anandtech.com/show/10551/the-bitfenix-pandora-atx-case-review">The BitFenix Pandora ATX Case Review</a></li>
+	<li><a href="http://www.anandtech.com/show/10434/asus-at-computex-2016-the-10-years-of-the-republic-of-gamers-rog-booth-tour">ASUS at Computex 2016: The 10 Years of the Republic Of Gamers (ROG) Booth Tour</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11378/lian-li-launches-pco11wgx-asus-high-end-case</link>
+ 	<pubDate>Sat, 13 May 2017 10:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11378:news</guid>
+ 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Fractal Design Launches New S24 and S36 Celsius AIO Liquid Coolers</title>
+    <dc:creator>Patrick MacMillan</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11374/fractal-design-celsius-aio-launched"><img src="http://images.anandtech.com/doci/11374/combo_575px.jpg" alt="" /></a></p><p><p>Fractal Design has just unveiled a different take on a new line of all-in-one liquid coolers, called the Celsius series. Unlike conventional AIOs, these new models are not actually closed-loop: they have threaded fittings on the radiator side in order to allow for expansion possibilities with common DIY liquid cooling components.</p>
+
+<p>The two units being launched are the Celsius S24 and Celsius S36, which feature 240mm and 360mm radiators respectively. The radiators feature aluminium housings and fins, and they are both around 30mm thick. As mentioned above, it is the fittings that are the really interesting part of this new product line. While the CPU block fittings are non-removable, the radiator fittings are knurled metal and feature a standard G 1/4&quot; thread. Since the G 1/4&quot; fitting is so common in the custom liquid cooling market, the expansion options are vast. As long as you add additional coolant, you could loop in a second waterblock, a second radiator, or even a reservoir. As a result, you cannot consider these Celsius models to be strictly closed-loop coolers (CLCs), but instead something of a new hybrid.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11374/fractal-design-celsius-aio-launched"><img alt="" src="http://images.anandtech.com/doci/11374/2_575px.jpg" /></a></p>
+
+<p>There is an integrated fan hub located between the radiator&#39;s inlet and output ports, with two free 4-pin fan headers on the S24 model and three unoccupied 4-pin fan headers on the S36 model. Surprisingly, these fan headers are actually attached to a hardware fan controller that is built into the CPU block. Fractal Design has been incredibly clever and&nbsp;slipped the cable in between the sleeving and the rubber tubing, and they have run it the entire 400mm tubing length to the CPU block/pump/fan controller unit.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5611" target="_blank">Celsius S24</a><div><a href="http://www.anandtech.com/Gallery/Album/5611#1" target="_blank"><img src="http://images.anandtech.com/galleries/5611/4fb9223d-5e1e-4c2f-839f-f1538069ec08_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5611#2" target="_blank"><img src="http://images.anandtech.com/galleries/5611/021f9a7f-e39e-4dfe-af5c-cf629edef82f_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5611#3" target="_blank"><img src="http://images.anandtech.com/galleries/5611/51f6ea46-cec0-42ab-93b1-0161c19d4255_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5611#4" target="_blank"><img src="http://images.anandtech.com/galleries/5611/345f1d4f-91e6-43fe-94eb-3c7db0abf18b_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5611#5" target="_blank"><img src="http://images.anandtech.com/galleries/5611/519fc2b8-c4e5-4b8c-bf08-b926a9044201_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5611#6" target="_blank"><img src="http://images.anandtech.com/galleries/5611/807ade61-8ebb-435e-ad3b-580682194234_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p><span style="-webkit-text-stroke-color: transparent;">The fan controller has two user-selectable modes, either &quot;auto&quot; (which is based on the liquid&nbsp;temperature and handled by the cooler itself), or a &quot;PWM&quot; mode (which gives control to the motherboard and is based on the actual CPU temperature). In either mode, both the pump and the fan speeds will be increased/decreased since they are all PWM capable.</span></p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11374/fractal-design-celsius-aio-launched"><img alt="" src="http://images.anandtech.com/doci/11374/1_575px.jpg" /></a></p>
+
+<p>Speaking of fans, these Celsius coolers come with either two or three of the high-quality Dynamic X2 GP-12 PWM fans that Fractal Design launched last summer. They have rotational speeds of between 500-2000 RPM, and use &quot;LLS&quot; bearings, with a claimed 32.2 dB(A) full speed noise levels, a stated airflow of 87.6 CFM, 2.30mm H2O of static pressure, and they are rated for up to 100,000 hours of use.</p>
+
+<p>The pump, which is built into the CPU block housing, has a rotational speed of between 1950-3150 RPM, and a full speed noise level of 20.0 dB(A). This gives it a 50,000 hour MTBF (or 5.7 years full use). Total power consumption for the Celsius S36 is listed at 9.0W, while the smaller S24 clocks in at 6.6W. All of this is powered from a single fan header on your motherboard, so a dedicated water pump header with high amperage capabilities is probably a good thing. The CPU block has a copper base and features sound-dampening materials in order to reduce operating noise output. High thermal conductivity thermal paste is pre-applied.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11374/fractal-design-celsius-aio-launched"><img alt="" src="http://images.anandtech.com/doci/11374/3a_575px.jpg" /></a></p>
+
+<p>These liquid coolers support all modern CPU sockets, including the latest AMD AM4 platform. We have no word on availability, but the Fractal Design Celsius S24 will retail for $109 USD and the larger <span style="color: rgb(68, 68, 68);">Fractal Design&nbsp;</span>Celsius S36 for $119 USD. Both of these units are covered by a five-year warranty.</p>
+
+<p><span style="-webkit-text-stroke-color: transparent;"><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5612" target="_blank">Celsius S36</a><div><a href="http://www.anandtech.com/Gallery/Album/5612#1" target="_blank"><img src="http://images.anandtech.com/galleries/5612/0e71f9a6-7e85-4709-9176-e3ce5efdcb95_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5612#2" target="_blank"><img src="http://images.anandtech.com/galleries/5612/7a4fd14f-e6eb-4518-b179-7fa083967eb6_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5612#3" target="_blank"><img src="http://images.anandtech.com/galleries/5612/216f2ac9-d4f6-4a64-a662-f61bc7d824ec_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5612#4" target="_blank"><img src="http://images.anandtech.com/galleries/5612/462e04ef-cd44-4b92-82d4-66a5997ff044_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5612#5" target="_blank"><img src="http://images.anandtech.com/galleries/5612/3359f703-5705-4eb0-a48e-e5758143f3be_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5612#6" target="_blank"><img src="http://images.anandtech.com/galleries/5612/7290ddc1-f7fc-44a7-b2e5-720c855c6494_thumb.jpg" width="85" height="85" border="0"/></a></div></div></span></p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/10524/the-alphacool-eisbaer-240-cpu-aio-liquid-cooler-review">The Alphacool Eisbaer 240 CPU AIO Liquid Cooler Review</a></li>
+	<li><a href="http://www.anandtech.com/show/9835/the-ekwb-ek-xlc-predator-240-liquid-cooler-review">The EKWB EK-XLC Predator 240 Liquid Cooler Review</a></li>
+	<li><a href="http://www.anandtech.com/show/7738/closed-loop-aio-liquid-coolers">Closed Loop AIO Liquid Coolers: 14-way Mega Roundup Review</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11374/fractal-design-celsius-aio-launched</link>
+ 	<pubDate>Fri, 12 May 2017 16:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11374:news</guid>
+ 	<category><![CDATA[ Fractal Design]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>ASUS Announces ROG STRIX H270I &amp; B250I Mini-ITX Motherboards</title>
+    <dc:creator>Patrick MacMillan</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11370/asus-rog-strix-h270i-b250i-announced"><img src="http://images.anandtech.com/doci/11370/untitled-1_575px.jpg" alt="" /></a></p><p><p>ASUS has just added to its Intel 200-series motherboard lineup with the announcement of two new mini-ITX motherboards. Dubbed the <a href="https://www.asus.com/Motherboards/ROG-STRIX-H270I-GAMING/overview/">ROG Strix H270I Gaming</a> and <a href="https://www.asus.com/Motherboards/ROG-STRIX-B250I-GAMING/overview/">ROG Strix B250I Gaming</a>, these two models differ when it comes to chipsets, but they are otherwise functionally identical in most respects.</p>
+
+<p>Up until now, the <a href="https://www.asus.com/Motherboards/ROG-Strix-Z270I-Gaming/">ROG Strix Z270I</a> was the only &#39;high-end&#39; mini-ITX model in the ASUS LGA1151 product line, and given the absence of a Maximus IX Impact&nbsp;it has served as the spiritual successor to the <a href="http://www.anandtech.com/show/9854/asus-maximus-viii-impact-z170-rog-review-itx">Maximus VIII Impact</a> that we reviewed back in December 2015. The lineage between the ROG Strix Z270I and these two latest models is much more obvious. Aside from one less MOSFET heatsink, the chipset, and some different VRM components, all three of these motherboards are all largely indistinguishable. Having said that, whereas the higher-end Z270-based model supports both CPU and memory overclocking, these two new more affordable models are aimed at those running stock-clocked CPUs. As such, they are also limited to memory speeds of DDR4-2400. While we are on the subject of memory, both motherboards clearly only have two memory slots and therefore system memory is limited to 32GB.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11370/asus-rog-strix-h270i-b250i-announced"><img alt="" src="http://images.anandtech.com/doci/11370/untitled-2_575px.jpg" /></a></p>
+
+<p>An interesting part of these mini-ITX models is that ASUS have managed to fit two M.2 connectors on a tiny PCB footprint. This is due to a double-decker heatsink design that allows an M.2 drive to be sandwiched between a top cover heatsink and a lower level PCH heatsink. The secondary M.2 connector&nbsp;is located on the back of the motherboard. Both M.2 connectors can handle full-speed PCIe&nbsp;3.0 x4 NVMe SSDs, as well as Intel Optane Memory, but only one of them supports SATA-based M.2 solid state drives.</p>
+
+<p>Both motherboards have four SATA 6Gb/s ports and support Intel Rapid Storage Technology, although only the Strix H270I has RAID 0, 1, 5, 10 and Intel SRT capabilities. There is a small divergence when it comes to USB connectivity, with the H270I supporting eight USB 3.0 ports (six rear, one header) and the B250I supporting six USB 3.0 ports (four rear, one header) and two USB 2.0 ports (two rear).</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11370/asus-rog-strix-h270i-b250i-announced"><img alt="" src="http://images.anandtech.com/doci/11370/combo3_575px.jpg" /></a></p>
+
+<p>The H270-based model also has two gigabit LAN ports (one powered by an Intel I219V and the other a Realtek RTL8111H) while the B250-based model only has a single gigabit&nbsp;LAN port courtesy of an Intel I219V controller. All of these LAN ports are protected by LANGuard surge protectors and can be managed using the ASUS GameFirst IV traffic management software. Both models also have onboard dual-band 802.11ac Wi-Fi with MU-MIMO, Bluetooth 4.1, and an included 2x2 external antenna. For those planning to use integrated graphics,&nbsp;both&nbsp;motherboards feature&nbsp;HDMI 1.4 and DisplayPort 1.2 video outputs.</p>
+
+<p>Given the obvious size constraints, the Strix H270I and Strix B250I only have one PCIe 3.0 x16 slot, and it is SafeSlot metal-reinforced (additional PCIe rigidity for heavy GPUs). Onboard audio duties are handled by an ROG SupremeFX eight-channel HD audio solution, which is based on the Realtek ALC1220A codec. There are dual headphone amplifiers, which means additional power and impedance sensing for both the front and rear headphone outputs. This onboard audio implementation also benefits from the ASUS audio software suite that consists of Sonic Studio III and Sonic Radar III.</p>
+
+<p>Since it is apparently the must-have feature of the second half of the decade, ASUS has added AURA RGB lighting to both of these models, in the form of a series of LEDs placed along the entire right side. There is also one RGB header that can power an LED light strip. Due to the Aura Sync feature, all of the lighting is controllable from within the AURA utility. While we are on the topic of <em>cool features (</em>Ed: Punny...<em>)</em>, there are three total fan headers - one which can handle a water pump or high amperage fan - and all of which can be managed by the excellent Fan Xpert 4 UEFI and/or software fan controls.</p>
+
+<p>There&#39;s no word on availability or pricing, other than the fact that we expect the Strix H270I will cost a little bit more than the Strix B250I.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5606" target="_blank">ROG Strix H270I</a><div><a href="http://www.anandtech.com/Gallery/Album/5606#1" target="_blank"><img src="http://images.anandtech.com/galleries/5606/1494389834399_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5606#2" target="_blank"><img src="http://images.anandtech.com/galleries/5606/1494389844883_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5606#3" target="_blank"><img src="http://images.anandtech.com/galleries/5606/1494389852414_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5606#4" target="_blank"><img src="http://images.anandtech.com/galleries/5606/1494389856305_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5606#5" target="_blank"><img src="http://images.anandtech.com/galleries/5606/1494389842190_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5607" target="_blank">ROG Strix B250I</a><div><a href="http://www.anandtech.com/Gallery/Album/5607#1" target="_blank"><img src="http://images.anandtech.com/galleries/5607/1494389841633_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5607#2" target="_blank"><img src="http://images.anandtech.com/galleries/5607/1494389847883_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5607#3" target="_blank"><img src="http://images.anandtech.com/galleries/5607/1494389850321_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5607#4" target="_blank"><img src="http://images.anandtech.com/galleries/5607/1494389855120_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5607#5" target="_blank"><img src="http://images.anandtech.com/galleries/5607/1494389854544_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/10947/zotac-announces-geforce-gtx-1080-for-miniitx-pcs">ZOTAC Announces GeForce GTX 1080 for Mini-ITX PCs</a></li>
+	<li><a href="http://www.anandtech.com/show/10808/lian-li-pc-q37-mini-itx-chassis-announced">Lian Li PC-Q37 Announced: Two-Stage Mini-ITX Chassis with Tempered Glass</a></li>
+	<li><a href="http://www.anandtech.com/show/9854/asus-maximus-viii-impact-z170-rog-review-itx">The ASUS Maximus VIII Impact Z170 ROG Mini-ITX Motherboard Review</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11370/asus-rog-strix-h270i-b250i-announced</link>
+ 	<pubDate>Fri, 12 May 2017 13:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11370:news</guid>
+ 	<category><![CDATA[ Motherboards]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AOC Releases the I1659FWUX: a 15.6-inch 1080P Portable USB Monitor</title>
+    <dc:creator>Patrick MacMillan</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11369/aoc-i1659fwux-portable-usb-monitor-released"><img src="http://images.anandtech.com/doci/11369/066f5e39944b003317c10f0fefed359f_575px.png" alt="" /></a></p><p><p>AOC have just introduced a new high definition 15.6-inch portable USB&nbsp;monitor for those who need more screen real estate than their laptop can provide without worrying too much about having the right display connector. USB monitors are popular for users when giving presentations, or for multi-window work.</p>
+
+<p>&nbsp;</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11369/aoc-i1659fwux-portable-usb-monitor-released"><img alt="" src="http://images.anandtech.com/doci/11369/d719bd87bf47bd7eeb1e9050961bd585_575px.png" /></a></p>
+
+<p>Labelled as the I1659FWUX, this 15.6-inch display has a resolution of 1920 x 1080 with a conventional refresh rate of 60Hz. It features an IPS panel with a matte anti-glare coating, a brightness of 220 cd/m2, a contrast ratio of 700:1, and a 25ms response time. The viewing angles are listed as 160&deg; (CR&gt;10) horizontal and 160&deg; (CR&gt;10) vertical. The &quot;CR&gt;10&quot; part means that you can view 160&deg; of the screen while retaining a contrast ratio of at least 10:1. Those viewing angles don&#39;t sound great for an IPS display, but given the specific metric that AOC is using it&#39;s hard to accurately judge it compared to other monitors.</p>
+
+<p>The entire enclosure is made of a glossy piano black plastic (which may attract fingerprints), while the panel itself is framed by a half-inch bezel on all sides. Integrated into the enclosure is a foldable silver stand that can rotate the display into either portrait or landscape mode and there is an auto-rotation feature built-in. While the monitor is portable in the literal sense, the I1659FWUX is 35.5mm (1.4-inch) thick and weighs 1.2 kg, so it is no compact featherweight product. Thankfully, a protective carrying case is included, so that will help when it to comes to travelling with the display. You&#39;re essentially carrying another laptop, in other words.</p>
+
+<p>&nbsp;</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11369/aoc-i1659fwux-portable-usb-monitor-released"><img alt="" src="http://images.anandtech.com/doci/11369/b0239e5ddc019a4a0ec471deb00d75a4_575px.png" /></a></p>
+
+<p>One of the key selling points of this monitor - portability aside - is that it receives both data and power via a single USB 3.0 cable, which means no additional bulky power adapter to carry. Power consumption is listed at 0.5W standby and 8W typical, so probably you won&#39;t be able to power it with just a single USB 3.0 port - most can&#39;t deliver more than 4.5W - but the included Y cable splits the load across two USB ports. Once the cable is plugged in, installation requires drivers and DisplayLink software that is compatible with both macOS and Windows.</p>
+
+<table border="0" style="text-align: center; width: 85%;" width="100%">
+	<tbody>
+		<tr>
+			<td class="contentwhite" colspan="6">AOC I1659FWUX</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Product Page</td>
+			<td><a href="http://us.aoc.com/product_feature.php?id=92">Link</a></td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Panel</td>
+			<td>15.6&quot; IPS</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Native Resolution</td>
+			<td>1920 &times; 1080 (16:9)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Maximum Refresh Rate</td>
+			<td>60 Hz</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Response Time</td>
+			<td>25 ms</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Brightness</td>
+			<td>220 cd/m&sup2;</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Contrast</td>
+			<td>700:1</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Viewing Angles</td>
+			<td>160&deg; (CR&gt;10) / 160&deg; (CR&gt;10)<br />
+			horizontal/vertical</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Pixel Density</td>
+			<td>141 pixels per inch</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Display Colors</td>
+			<td>292K</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Stand</td>
+			<td>Tilt (15&deg; to 30&deg;)<br />
+			Auto Pivot</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Inputs</td>
+			<td>1 &times; USB 3.0</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Audio</td>
+			<td>None</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Dimensions</td>
+			<td>232.7mm x 371.9mm x 35.5mm (WxHxD)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Weight</td>
+			<td>1.20 kg</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Price</td>
+			<td><a href="http://amzn.com/s/?tag=anandtech01-20&amp;field-keywords=I1659FWUX">$149.90</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>It should be noted that while AOC already has a similar product with a very similar model name (<a href="http://us.aoc.com/product_feature.php?id=14">E1659FWUX</a>).&nbsp;This previous model features a TN panel which is brighter and has a lower response time, but worse contrast and viewing angles than this newer IPS version.</p>
+
+<p>The AOC I1659FWUX is available for <a href="http://amzn.com/s/?tag=anandtech01-20&amp;field-keywords=I1659FWUX">pre-order on Amazon.com</a> for $149.90 USD with a stated in-stock date of May 13th.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5604" target="_blank">I1659FWUX</a><div><a href="http://www.anandtech.com/Gallery/Album/5604#1" target="_blank"><img src="http://images.anandtech.com/galleries/5604/0fa7b81a4d4603291f2f789af5d49494_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5604#2" target="_blank"><img src="http://images.anandtech.com/galleries/5604/5b32d4178d94eb9b7e42836dfa9164b8_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5604#3" target="_blank"><img src="http://images.anandtech.com/galleries/5604/6cd14c30195bfd32bc65a9839a62cea4_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5604#4" target="_blank"><img src="http://images.anandtech.com/galleries/5604/9cf99f4fb6bfa85826051849509f6e70_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5604#5" target="_blank"><img src="http://images.anandtech.com/galleries/5604/066f5e39944b003317c10f0fefed359f_thumb.png" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5604#6" target="_blank"><img src="http://images.anandtech.com/galleries/5604/b0239e5ddc019a4a0ec471deb00d75a4_thumb.png" width="85" height="85" border="0"/></a></div></div></p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/11140/aoc-announces-curved-ag322qcx-and-ag272fcx-144-hz-displays">AOC Expands AGON Family with Curved AG322QCX and AG272FCX 144 Hz Displays</a></li>
+	<li><a href="http://www.anandtech.com/show/11093/aoc-announces-q2781ps">The AOC Q2781PS Announced: &#39;Frameless&#39; Rose Gold 27&quot; QHD with Swarovski Crystals</a></li>
+	<li><a href="http://www.anandtech.com/show/11058/aoc-agon-ag352ucg-curved-35-3440-1440-100-hz-gsync">AOC Announces the AGON AG352UCG 21:9 Curved Display: 35&quot; 3440x1440, 100Hz with G-Sync</a></li>
+	<li><a href="http://www.anandtech.com/show/11001/razer-reveals-triple-monitor-laptop-valarie">Razer Reveals Their Triple Monitor Gaming Laptop Concept: Project Valerie</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11369/aoc-i1659fwux-portable-usb-monitor-released</link>
+ 	<pubDate>Fri, 12 May 2017 10:15:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11369:news</guid>
+ 	<category><![CDATA[ Monitors]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 13: Seasonic PRIMEs You for PC Power Supplies</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies"><img src="http://images.anandtech.com/doci/11376/seasonic_575px.jpg" alt="" /></a></p><p><p>The end of the week is again upon us, so it&rsquo;s time once more to close out the week with another giveaway as part of our <a href="http://www.anandtech.com/show/11212/celebrating-anandtechs-20th-anniversary/2">20 day giveaway celebration of AnandTech&rsquo;s 20<sup>th</sup> anniversary</a>.</p>
+
+<p>Carrying us into the weekend this time is Seasonic. The specialty power supply maker is just that &ndash; a power supply maker &ndash; which gives them a unique identity in the PC PSU space, as they do just one thing, and they do that thing very well. So for today&rsquo;s giveaway, we have 5 different power supplies from Seasonic to hand out, covering their PSU lineup from top to bottom. This includes the 850W and 650W PRIME Titanium PSUs, the 750W SnowSilent PSU, the X-650 650W PSU, and the S12II-520 520W PSU.</p>
+
+<ul>
+	<li>Seasonic PRIME Titanium 850W PSU</li>
+	<li>Seasonic PRIME Titanium 650W PSU</li>
+	<li>Seasonic Snow Silent 750W PSU</li>
+	<li>Seasonic X-650 650W PSU</li>
+	<li>Seasonic S12II-520 520W PSU</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/HaeXa/the-anandtech-20th-anniversary-celebration-seasonic-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; SeaSonic Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Seasonic S12II-520 520W PSU</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies"><img alt="" src="http://images.anandtech.com/doci/11376/s520_575px.jpg" /></a></p>
+
+<p>Starting things off, we have the <a href="https://seasonic.com/product/s12ii-520/">Seasonic S12II-520 PSU</a>. This is a 520W 80Plus Bronze PSU that Seasonic fondly calls their &ldquo;workhorse&rdquo; PSU, bringing up the budget end of their range with a reasonable balance between quality and pricing. This fully wired PSU can deliver up to 480W on its two 12v rails and is cooled by a fluid dynamic bearing fan.</p>
+
+<h3>Seasonic X-650 650W PSU</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies"><img alt="" src="http://images.anandtech.com/doci/11376/s650_575px.jpg" style="width: 546px; height: 440px;" /></a></p>
+
+<p>Moving up the stack is one of Seasonic&rsquo;s most popular PSUs over the years, the <a href="https://seasonic.com/product/x-650/">X-650</a>. This 650W PSU is fully modular, offering a sizable selection of ports and cables to work with. From a power delivery standpoint is can deliver 648W over its sole 12v rail, reaching 80Plus Gold levels of efficiency. Finally, cooling is provided by a double ball bearing 120mm fan, which offers support for Seasonic&rsquo;s &ldquo;S3FC&rdquo; technology for fanless operation when temperatures allow.</p>
+
+<h3>Seasonic Snow Silent 750W PSU</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies"><img alt="" src="http://images.anandtech.com/doci/11376/s750_575px.jpg" style="width: 546px; height: 440px;" /></a></p>
+
+<p>Third up is Seasonic&rsquo;s <a href="https://seasonic.com/product/snow-silent-750/">Snow Silent 750 PSU</a>. This is another fully modular PSU, contrasting black cables against the all white (snow) PSU. Total power delivery is 750W, with the 12v rail able to supply 744W, while power efficiency goes up another notch to 80Plus Platinum. Like the company&rsquo;s other higher-end PSUs, this features a fanless operation mode for its included 120mm fan, which for the Snow Silent uses a fluid dynamic bearing setup.</p>
+
+<h3>Seasonic PRIME Titanium 650W and 850W</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies"><img alt="" src="http://images.anandtech.com/doci/11376/sp650_575px.jpg" style="width: 549px; height: 440px;" /></a></p>
+
+<p>Last but certainly not least, we have two units from Seasonic&rsquo;s flagship <a href="https://seasonic.com/product-category/consumer-products/prime-series/">PRIME Titanium</a> lineup of PSUs, the PRIME 850W and the PRIME 650W. The best of the best of Seasonic&rsquo;s PSUs, the PRIME Titanium family are among the <a href="http://www.anandtech.com/show/11252/the-seasonic-prime-titanium-power-supply-review/">highest scoring PSUs we&rsquo;ve ever reviewed at AnandTech</a>. As our E. Fylladitakis noted in his review: &ldquo;Seasonic made it easy for us to summarize the entirety of these units&rsquo; performance in just one word: mythical&rdquo; thanks to the PSUs&rsquo; incredible power efficiency and voltage regulation.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies"><img alt="" src="http://images.anandtech.com/doci/11376/sp850_575px.jpg" style="width: 557px; height: 440px;" /></a></p>
+
+<p>Besides offering impeccable quality for power delivery, Seasonic rounds out the package with all of their bells and whistles. This includes fully modular cabling and power efficiency exceeding 80Plus Titanium standards at all levels. Besides differing in total power output and the number of modular ports, the 850W and 650W units are virtually identical, with both sporting a black-and-titanium finish along with 135mm fluid dynamic bearing fans.</p>
+
+<p>Finally, as with our other giveaways, this afternoon&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in Monday for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11376/at20-giveaway-day-13-seasonic-primes-you-for-pc-power-supplies</link>
+ 	<pubDate>Fri, 12 May 2017 08:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11376:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Huawei P10 and P10 Plus: Performance &amp; Battery Life Report</title>
+    <dc:creator>Matt Humrick</dc:creator>    
+    <description><![CDATA[ <p>Huawei is clearly focused on improving the performance of its flagship phones. The P9 and its Kirin 955 SoC performed well in our tests and was smooth and quick during everyday use. For the P10 and P10 Plus, Huawei tweaks the underlying hardware and software to make them perform even better for longer.</p>
+]]></description>
+    <link>http://www.anandtech.com/show/11292/performance-battery-life-report-huawei-p10</link>
+ 	<pubDate>Fri, 12 May 2017 07:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11292:news</guid>
+ 	<category><![CDATA[ Smartphones]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Cooler Master Debuts Affordable MasterBox Lite 5 Mid-Tower Case</title>
+    <dc:creator>Patrick MacMillan</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11362/cooler-master-masterbox-lite-5"><img src="http://images.anandtech.com/doci/11362/triple_575px.png" alt="" /></a></p><p><p>With an eye towards expanding and refreshing their case lineup, Cooler Master has just announced the MasterBox Lite 5 mid-tower case. The Lite 5 is a new model,&nbsp;with a translucent front panel and customizable trim colors. Not to be confused with the <a href="http://www.anandtech.com/show/9560/the-cooler-master-mastercase-5-review">MasterCase 5</a> that we reviewed back in 2015, the MasterBox 5 Lite is the latest variation in the MasterBox 5 series, which now consists of six different models.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11362/cooler-master-masterbox-lite-5"><img alt="" src="http://images.anandtech.com/doci/11362/main_575px.png" /></a></p>
+
+<p><span style="color: rgb(68, 68, 68);">The MasterBox Lite 5 is a 43-liter ATX mid-tower design, and&nbsp;</span>This model supports Mini-ITX to ATX motherboards with a total of seven expansion slots. Due to its depth and wide open interior design, this case can handle expansion cards up to 400mm in length, which means that it can easily fit the longest consumer graphics cards on the market. For the CPU cooler, it is worth taking note that, it has a hard z-height limit up to 160mm tall for heatsinks. This doesn&#39;t mean much in the grand scheme of what&#39;s available for CPU cooling, but the tallest models like the Noctua NH-D15 will unfortunately not fit.</p>
+
+<p><span style="color: rgb(68, 68, 68);">With dimensions of 200mm(W) x 468.8 mm(D) x 454.5 mm(H), the case is quite narrow, relatively deep, and a roughly average height. Surprisingly, for a case made with a combination of steel and plastic, it is reasonably lightweight at 5.07kg. While we are on the topic of dimensions, Cooler Master have included a generous 25mm to 35mm of cable&nbsp;</span>routing <span style="color: rgb(68, 68, 68);">room behind the motherboard tray.</span></p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11362/cooler-master-masterbox-lite-5"><img alt="" src="http://images.anandtech.com/doci/11362/base_575px.jpg" /></a></p>
+
+<p>Liquid cooling capabilities are aplenty, with support for one 120mm radiator at the back of the case and one 240-360mm radiator (up to 50mm thick without fan) on the front of the case. Speaking of fans, there is one 120mm fan pre-installed in the back of the case, and there is room for three 120mm or two 140mm fans on the front of the case. Dust filters are included on the front and bottom of the case (for the PSU fan). When it comes to connectivity, the front I/O panel has two USB 3.0 ports, as well as both audio in and audio out 3.5mm jacks.</p>
+
+<p>As you can probably see, the interior of the case has been split into two chambers. The enclosed bottom chamber is where the power supply - which can be up to 180mm long - is installed. Although not explicitly mentioned in the available documentation, we strongly believe that the bottom chamber is also where you will find the single 2.5&quot; SSD mount (either there or behind the MB tray) and two combo 2.5&quot;/3.5&quot; drive bays.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11362/cooler-master-masterbox-lite-5"><img alt="" src="http://images.anandtech.com/doci/11362/combo_575px.png" /></a></p>
+
+<p>Clearly, one of the main marketing points of this model is aesthetics. The centerpiece is the angular front fascia, which Cooler Master calls their DarkMirror front panel. It is a tinted and highly glossy piece of translucent plastic - likely acrylic like the side panel - that is fully removable to help with the installation of any liquid cooling components. The edge-to-edge side panel window is tinted yet highly transparent, fully removable, and held in place with thumbscrews. As with other MasterCase designs, there are also some external customization possibilities thanks to the inclusion of three trim pieces of various colors - black, white, and red - for both the top and bottom part of the front fascia. And if that is not enough, Cooler Master have also made 3D printing schematics of the top and bottom trim available for download so that DIY community can customize this case.&nbsp;</p>
+
+<p>The Cooler Master MasterBox 5 Lite is currently available for <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16811119322">pre-order at Newegg.com</a> for $50 USD with a stated release date of May 19th.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5603" target="_blank">MasterBox Lite 5</a><div><a href="http://www.anandtech.com/Gallery/Album/5603#1" target="_blank"><img src="http://images.anandtech.com/galleries/5603/1_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5603#2" target="_blank"><img src="http://images.anandtech.com/galleries/5603/2_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5603#3" target="_blank"><img src="http://images.anandtech.com/galleries/5603/3_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5603#4" target="_blank"><img src="http://images.anandtech.com/galleries/5603/4_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5603#5" target="_blank"><img src="http://images.anandtech.com/galleries/5603/5_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5603#6" target="_blank"><img src="http://images.anandtech.com/galleries/5603/6_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<h3>Related Reading</h3>
+
+<ul>
+	<li><a href="http://www.coolermaster.com/case/mid-tower/masterbox-lite-5/">Cooler Master MasterBox 5 Lite Product Page</a></li>
+	<li><a href="http://www.anandtech.com/show/9560/the-cooler-master-mastercase-5-review">The Cooler Master MasterCase 5 Review</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11362/cooler-master-masterbox-lite-5</link>
+ 	<pubDate>Thu, 11 May 2017 15:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11362:news</guid>
+ 	<category><![CDATA[ Case]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 12.5: Antec Cubes and Powers Your Next Mini-ITX PC</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11373/at20-giveaway-day-125-antec-cube-case-and-psu"><img src="http://images.anandtech.com/doci/11373/678x452(1)_575px.jpg" alt="" /></a></p><p><p>For our final afternoon giveaway of the week, the crew from Antec is looking to give your next computer build a new home. The centerpiece of today&rsquo;s prize is an Antec Cube (Designed by Razer) Mini-ITX case, the company&rsquo;s flagship small form factor case. Meanwhile to help power the Cube and its contents, the company is also kicking in one of their 650 Watt Edge power supplies.</p>
+
+<ul>
+	<li>Antec Cube (Designed by Razer) Mini-ITX Case &amp; Antec Edge 650W PSU</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/PjGV9/the-anandtech-20th-anniversary-celebration-antec-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; Antec Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Antec Cube (Designed by Razer) Mini-ITX Case</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11373/at20-giveaway-day-125-antec-cube-case-and-psu"><img alt="" src="http://images.anandtech.com/doci/11373/anteccube_575px.jpg" /></a></p>
+
+<p>Starting things off, at the heart of today&rsquo;s prize pack is <a href="http://www.antec.com/index.php?page=cube_razer&amp;lan=nz">Antec&rsquo;s latest Cube Mini-ITX case</a>. The case, designed by Razer and literally branded as such, is 14.4 inches tall and features a swept angle design that makes the case more of a parallelepiped (3D parallelogram) than a traditional box case. A case meant o be seen, the top and both sides feature acrylic windows, and Razer-green LED lighting is installed in various points of the case.</p>
+
+<p>Internally, the Cube can take a mini-ITX board, but features enough space for a full length graphics card, or even radiators up to 240mm in size. The case comes with one rear 120mm fan pre-installed, with room for more fans (or the aforementioned radiator) in the front. Meanwhile the PSU receives its own compartment, while the drive bays &ndash; supporting 1 3.5 inch drive and up to 4 2.5 inch drives &ndash; are on the back side of the case.</p>
+
+<h3>Antec Edge 650W PSU</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11373/at20-giveaway-day-125-antec-cube-case-and-psu"><img alt="" src="http://images.anandtech.com/doci/11373/antecedge650_575px.jpg" style="width: 601px; height: 400px;" /></a></p>
+
+<p>In order to power the Cube, Antec has also sent along one of their <a href="http://www.antec.com/product.php?id=706887&amp;fid=5022132&amp;lan=nz">Edge-series 650 Watt power supplies</a>. The Edge is a fully modular PSU &ndash; ATX power cable and all &ndash; sporting a number of different connector options. On the power delivery side, the PSU can deliver 648W over its two 12v rails, and at 80Plus Gold efficiency levels. Finally the PSU sports white LED lighting, which is built into its 135mm fan.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in tomorrow for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11373/at20-giveaway-day-125-antec-cube-case-and-psu</link>
+ 	<pubDate>Thu, 11 May 2017 14:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11373:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Intel’s Itanium Takes One Last Breath: Itanium 9700 Series CPUs Released</title>
+    <dc:creator>Ian Cutress</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11372/intels-itanium-takes-one-last-breath-9700-series-released"><img src="http://images.anandtech.com/doci/11372/1280px-kl_intel_itanium2_575px.jpg" alt="" /></a></p><p><p>One of Intel&rsquo;s ventures into the historic mainframe space was Itanium: a 64-bit capable processor designed in conjunction with Hewlett Packard.&nbsp;The main reason for Itanium was to run HP-UX and compete against big names, such as Oracle, using a new IA-64 instruction set. The appeal for the original Itanium parts was support for RAS features, ECC, and cores focus on a wide, parallel architecture - the latest cores support 12-wide execution for example. For a short while, there was success: HP&rsquo;s systems based on Itanium are advertised as high-uptime mission critical servers, and a number of customers cling to these systems like a child clings to their favorite blanket due to the way they are integrated at the core of the company. The main purpose was to compete against other mission critical servers and mainframes based on SPARC and IBM Power.</p>
+
+<p>So when the processors were initially delivered to customers, there was potential. However the initial impression was not great - they&nbsp;<span style="color: rgb(68, 68, 68);">consumed too much power, were noisy, and needed over the top cooling</span>. Over the years and generations of Itanium, the march into the x86 enterprise space with x86-64 drew potential Itanium customers away, then followed the drop of Microsoft&#39;s support for Itanium in 2008, and Oracle&#39;s dropped support in 2011. Xeon offerings were becoming popular, with CPUs incorporating the RAS/ECC features required, and Intel decided to slow down Itanium development as a result. In the meantime, due to the way the market was moving, HP transitioned a good part of&nbsp;its product stack to Xeons. Despite this, legal battles between HP and Oracle ensued given predicted support for HP-UX customers. At this point, there were fewer potential Itanium customers each quarter, although existing customers required support.</p>
+
+<p>Today marks the release of the final known variant of Itanium, the 9700 series, beyond assurance testing. <a href="http://www.pcworld.com/article/3196080/data-center/intels-itanium-once-destined-to-replace-x86-in-pcs-hits-end-of-line.html">Intel spoke to IDG</a>, stating that this generation, code-named Kittson, would be the final member of the Itanium family. These chips are likely to only end up in HP-based Integrity i6 high-uptime servers running HP-UX, and start at $14500. Hewlett Packard Enterprise has stated previously that it will keep support for Itanium-based products until 2025, with the latest OS update (HP-UX 11i v3 2017) coming in June.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11372/intels-itanium-takes-one-last-breath-9700-series-released"><img alt="" src="http://images.anandtech.com/doci/11372/256_processor_9300_9500_9700_series__datasheet-page-002_575px.jpg" /></a></p>
+
+<p>As for the processors themselves, four 9700 processors form the stack, with quad-core and eight-core parts all with hyperthreading, differing in frequency, power, and L3 cache.</p>
+
+<table border="0" style="text-align: center;" width="95%">
+	<tbody>
+		<tr class="tlblue">
+			<td colspan="6">Intel Itanium (Kittson) CPUs</td>
+		</tr>
+		<tr class="tgrey">
+			<td>&nbsp;</td>
+			<td>Cores/<br />
+			Threads</td>
+			<td>Base<br />
+			Freq</td>
+			<td>L3</td>
+			<td>TDP</td>
+			<td>Cost*</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Itanium 9760</td>
+			<td>8/16</td>
+			<td>2.66 GHz</td>
+			<td>32 MB</td>
+			<td>170 W</td>
+			<td>$4650</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Itanium 9750</td>
+			<td>4/8</td>
+			<td>2.53 GHz</td>
+			<td>32MB</td>
+			<td>170W</td>
+			<td>$3750</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Itanium 9740</td>
+			<td>8/16</td>
+			<td>2.13 GHz</td>
+			<td>24 MB</td>
+			<td>170 W</td>
+			<td>$2650</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Itanium 9720</td>
+			<td>4/8</td>
+			<td>1.73 GHz</td>
+			<td>20 MB</td>
+			<td>130 W</td>
+			<td>$1350</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*Cost is listed for the equivalent Poulson CPUs.</p>
+
+<p>The base silicon comes in at 3.1 billion transistors, and are made on Intel&rsquo;s 32nm process. Memory is supported up to DDR3-1067, with two memory controllers but support for scalable memory buffers is present. This is similar to the 9500 series, code-named Paulson. These chips are designed to be purely a drop into previous systems. Intel isn&rsquo;t announcing an official press release around this, and unlike other &lsquo;new architectures&rsquo;, there are next to zero improvements. <a href="http://www.intel.com/content/www/us/en/products/processors/itanium/9300-9500-9700-series-datasheet.html">According to the documents</a>, the only change is that the top two SKUs get a clock bump:</p>
+
+<p style="text-align: center;"><a href="http://www.anandtech.com/show/11372/intels-itanium-takes-one-last-breath-9700-series-released"><img alt="" src="http://images.anandtech.com/doci/11372/updates_575px.png" /></a></p>
+
+<p>There&rsquo;s probably something new under the hood, perhaps for a specific end-customer, but at this time Intel is directing anything 9700 related to equate to the 9500 series. Customers <em>still</em> interested in Itanium are directed to HPE resellers.&nbsp;</p>
+
+<p>Carousel Image from <a href="https://en.wikipedia.org/wiki/Itanium#/media/File:KL_Intel_Itanium2.jpg">Konstantin </a><a href="https://en.wikipedia.org/wiki/Itanium#/media/File:KL_Intel_Itanium2.jpg">Lanzet</a><a href="https://en.wikipedia.org/wiki/Itanium#/media/File:KL_Intel_Itanium2.jpg"> (Wikipedia)</a> of Itanium 2 (Poulson)<br />
+News Source: <a href="http://www.pcworld.com/article/3196080/data-center/intels-itanium-once-destined-to-replace-x86-in-pcs-hits-end-of-line.html">IDG</a></p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11372/intels-itanium-takes-one-last-breath-9700-series-released"><img alt="" src="http://images.anandtech.com/doci/11372/256_processor_9300_9500_9700_series__datasheet-page-001_575px.jpg" /></a></p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11372/intels-itanium-takes-one-last-breath-9700-series-released</link>
+ 	<pubDate>Thu, 11 May 2017 11:10:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11372:news</guid>
+ 	<category><![CDATA[ CPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Inno3D Debuts Single Slot GeForce GTX 1050 Ti</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11366/inno3d-single-slot-geforce-gtx-1050-ti"><img src="http://images.anandtech.com/doci/11366/inno3d_geforce_gtx_1050_ti_single_678_575px.jpg" alt="" /></a></p><p><p>Inno3D has added a new NVIDIA GeForce GTX 1050 Ti-based video card to its lineup. The Inno3D GeForce GTX 1050 Ti (1-Slot Edition) graphics adapter uses a single-slot cooling system and is designed to tightly packed PCs where space is at a premium.</p>
+
+<p>While small form-factor PCs are on the rise today, single-slot consumer graphics adapters are hard to find. This is&nbsp;partly because the&nbsp;popularity of entry-level discrete video cards is decreasing, and partly because virtually all desktops have enough space for dual-slot AIBs. In the recent months, almost a year after the launch of 14nm/16nm GPUs, the situation began to change. ELSA, Palit Microsystems and XFX have released single-slot graphics cards based on NVIDIA&rsquo;s GP107, GP104 as well as AMD&rsquo;s Polaris 11 GPUs. It looks like Inno3D is the fourth company and will now offer a gaming-grade graphics board with a single-slot cooler.</p>
+
+<p>The <a href="http://www.inno3d.com/products_detail.php?refid=297">Inno3D GeForce GTX 1050 Ti (1-Slot Edition)</a> is based on the NVIDIA&rsquo;s GP107 graphics processor in its full configuration (768 stream processors, 48 texture units, 32 ROPs, 128-bit memory controller, etc.). The graphics adapter runs at clock rates recommended by NVIDIA (1290/1392 MHz base/boost) and is equipped with 4 GB of GDDR5 memory operating at 7000 MT/s. Since the single-slot video card is designed for PCs with reduced power consumption, the model from Inno3D comes without an auxiliary PCIe power connector and does not consume more than 75 W of power.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11366/inno3d-single-slot-geforce-gtx-1050-ti"><img alt="" src="http://images.anandtech.com/doci/11366/inno3d_geforce_gtx_1050_ti_single_1_575px.jpg" /></a></p>
+
+<p>The single-slot graphics card from Inno3D uses an NVIDIA-branded PCB, just like a similar graphics board from ELSA introduced earlier this year. This may indicate that both ELSA and Inno3D either use PCBs made by an NVIDIA-approved manufacturer, or simply get the boards from the GPU developer itself. In either case, this means that other suppliers of video cards may release similar products eventually.</p>
+
+<p>The single-slot cooling system from Inno3D is made of aluminum, and comes in at 99.8 mm in height and is 211 mm long (so, the card itself is relatively short), as for outputs, the board comes with a dual-link DVD-D, one HDMI 2.0b and one DisplayPort 1.4 header. The AIB supports HDCP 2.2, so it can playback protected content.</p>
+
+<p>The Inno3D GeForce GTX 1050 Ti (1-Slot Edition) is <a href="http://www.inno3d.com/products_detail.php?refid=297">already listed on the company&rsquo;s website</a>, so expect it to hit the market shortly. The company does not publish its MSRP, but we would expect the price to be close to NVIDIA&rsquo;s recommendations.</p>
+
+<p>Related Reading:</p>
+
+<ul>
+	<li><a href="http://www.anandtech.com/show/11148/xfx-starts-to-sell-singleslot-miniitx-radeon-rx-460">XFX Starts to Sell Single-Slot Mini-ITX Radeon RX 460 Slim Graphics Cards</a></li>
+	<li><a href="http://www.anandtech.com/show/11135/elsa-single-slot-geforce-gtx-1050-ti-4-gb-sp">ELSA Launches a Single-Slot GeForce GTX 1050 Ti 4 GB SP</a></li>
+	<li><a href="http://www.anandtech.com/show/11271/galax-and-kfa2-list-geforce-gtx-1070-katana-a-singleslot-geforce-gtx-1070">GALAX and KFA2 Katana: Single-Slot GTX 1070 GPUs Coming Soon</a></li>
+</ul>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11366/inno3d-single-slot-geforce-gtx-1050-ti</link>
+ 	<pubDate>Thu, 11 May 2017 09:30:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11366:news</guid>
+ 	<category><![CDATA[ GPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 12: Patriot Brings out the Red, Green, and Blue with RAM and Peripherals</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11371/at20-giveaway-day-12-patriot-brings-out-the-red-green-and-blue-with-ram-and-peripherals"><img src="http://images.anandtech.com/doci/11371/678x452_575px.jpg" alt="" /></a></p><p><p>Today we&rsquo;re kicking things off with day 12 of our <a href="http://www.anandtech.com/show/11212/celebrating-anandtechs-20th-anniversary/2">20 day giveaway celebration of AnandTech&rsquo;s 20<sup>th</sup> anniversary</a>.</p>
+
+<p>This morning we have prizes from the pleasant people over at Patriot. The memory, flash storage, and peripherals vendor has sent over a mix of their gear, including both DDR4 RAM and some of their latest peripherals. For RAM we have a 16GB kit of their Viper Elite DDR4-2400. Meanwhile for peripherals the company has brought out the Red, Green, and Blue, with their RGB-equipped Viper V370 headset, Viper V570 mouse, and Viper V760 keyboard.</p>
+
+<ul>
+	<li>Viper Elite Series DDR4-2400 16GB (2x8GB), Blue</li>
+	<li>Viper V370 RGB 7.1 Virtual Surround Gaming Headset</li>
+	<li>Viper V570 RGB Laser Gaming Mouse</li>
+	<li>Viper V760 Gaming Mechanical Keyboard</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/q94eS/the-anandtech-20th-anniversary-celebration-patriot-memory-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; Patriot Memory Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Viper Elite Series DDR4-2400 16GB (2x8GB)</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11371/at20-giveaway-day-12-patriot-brings-out-the-red-green-and-blue-with-ram-and-peripherals"><img alt="" src="http://images.anandtech.com/doci/11371/viperddr4_575px.jpg" style="width: 595px; height: 350px;" /></a></p>
+
+<p>Patriot originally got their start in memory, so that too is where we&rsquo;ll start. The <a href="https://patriotmemory.com/product/viper-elite-series-ddr4-16gb-2-x-8gb-2400mhz-kit-blue/">Viper Elite Series</a> kit we&rsquo;re giving away is a 16GB (2x8GB) set of DIMMs that run at DDR4-2400 with 15-15-15 timings. This is the highest speed grade that DDR4 supports without overclocking, and consequently the kit operates at a cool 1.2v.&nbsp; Meanwhile a blue heatshield ensures that the DIMM is protected, and what little heat is generated is easily dissipated.</p>
+
+<h3>Viper V370 RGB Gaming Headset</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11371/at20-giveaway-day-12-patriot-brings-out-the-red-green-and-blue-with-ram-and-peripherals"><img alt="" src="http://images.anandtech.com/doci/11371/v370_575px.jpg" style="width: 522px; height: 400px;" /></a></p>
+
+<p>Our second prize of the day is the <a href="https://patriotmemory.com/product/viper-v370-7-1-virtual-surround-headset/">Viper V370 RGB 7.1 Virtual Surround Gaming Headset</a>. This closed-back audio headset features a pair of 40mm drivers and an additional set of 30mm drivers for bass, along with a built-in microphone. And living up to its name, it also includes RGB lighting built into the headset.</p>
+
+<h3>Viper V570 RGB Laser Gaming Mouse</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11371/at20-giveaway-day-12-patriot-brings-out-the-red-green-and-blue-with-ram-and-peripherals"><img alt="" src="http://images.anandtech.com/doci/11371/v570_575px.jpg" style="width: 584px; height: 450px;" /></a></p>
+
+<p>Our third prize is the <a href="https://patriotmemory.com/product/viper-v570-optical-gaming-mouse/">Viper V570 Laser Gaming Mouse</a>. This right-handed mouse uses a laser sensor that goes up to 3200 DPI, while also offering an adjustable weight and 13 additional macro buttons. Rounding out the package, the mouse also features 7 zones of RGB LED lights.</p>
+
+<h3>Viper V760 RGB Gaming Mechanical Keyboard</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11371/at20-giveaway-day-12-patriot-brings-out-the-red-green-and-blue-with-ram-and-peripherals"><img alt="" src="http://images.anandtech.com/doci/11371/v760_575px.jpg" /></a></p>
+
+<p>The final product in today&rsquo;s giveaway is the company&rsquo;s <a href="https://patriotmemory.com/product/viper-v760-gaming-mechanical-keyboard/">Viper V760 RGB Gaming Mechanical Keyboard</a>. Patriot&rsquo;s sole keyboard, the V760 uses Kailh&rsquo;s brown mechanical switches to give the keyboard a tactile feel. The board doesn&rsquo;t feature any extra keys beyond its base 104 keys, but it does offer extensive macro programming and lighting control through the use of a Function modifier key. And of course, like the other RGB peripherals in Patriot&rsquo;s collection, the V760 features RGB lighting, thanks to the including of per-key RGB LEDs.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in this afternoon for our next giveaway.</p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11371/at20-giveaway-day-12-patriot-brings-out-the-red-green-and-blue-with-ram-and-peripherals</link>
+ 	<pubDate>Thu, 11 May 2017 08:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11371:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>AT20 Giveaway Day 11.5: Corsair Has the Power (And Memory Too!)</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="http://www.anandtech.com/show/11363/at20-giveaway-day-115-corsair-1500w-psu-and-ram"><img src="http://images.anandtech.com/doci/11363/678x452_575px.jpg" alt="" /></a></p><p><p>Taking us into our afternoon giveaway for this Wednesday is Corsair. The company, which provides a smorgasbord of PC components ranging from DRAM to peripherals to pre-built PCs, likes to pride themselves on their high-end components. So I&rsquo;m sure everyone will be eager to win in today&rsquo;s giveaway, as the company has sent over some of their best DRAM and a PSU.</p>
+
+<p>For DRAM, the company has given us a Dominator Platinum Special Edition 32GB (4x8GB) kit in chrome, a kit so rare that they&rsquo;re individually numbered. Meanwhile on the power supply front, the company is providing their immensely powerful 1500 Watt (!) AX1500i fully modular PSU, along with a premium sleeved cable kit to complete the package.</p>
+
+<ul>
+	<li>Corsair Dominator Platinum Special Edition DDR4 32GB (4x8GB) Kit, Chrome</li>
+	<li>Corsair AX1500i PSU &amp; Premium Sleeved Cable Kit</li>
+</ul>
+
+<p><a class="e-widget" href="https://gleam.io/Khqxq/the-anandtech-20th-anniversary-celebration-corsair-giveaway" rel="nofollow">The AnandTech 20th Anniversary Celebration &ndash; Corsair Giveaway</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script></p>
+
+<h3>Corsair Dominator Platinum Special Edition DDR4 32GB (4x8GB) Kit</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11363/at20-giveaway-day-115-corsair-1500w-psu-and-ram"><img alt="" src="http://images.anandtech.com/doci/11363/dominator_se_chrome_07_575px.jpg" /></a></p>
+
+<p>The first item on our list is Corsair&rsquo;s flagship-level memory kit, the <a href="http://www.corsair.com/en-us/dominator-platinum-se-32gb-4-x-8gb-ddr4-dram-3200mhz-c14-memory-kit-chrome-cmd32gx4m4c3200c14c">Dominator Platinum SE</a>. This is a 32GB (4x8GB) kit, which runs at DDR4-3200 speeds with 14-16-16 timings, and a voltage of 1.35v. The company advertises the RAM of being able to be further overclocked to DDR4-3600 speeds, if DDR4-3200 isn&rsquo;t enough.</p>
+
+<p>Besides being the company&rsquo;s fastest memory, the Dominator Platinum is also among their rarest. The company only makes 500 kits of a given configuration and color &ndash; to the point where they individually number the kits. The DIMMs themselves feature a sizable aluminum heatspreader (in this case colored chrome) along with a white LED light bar to make the DIMMs quite literally shine.</p>
+
+<h3>Corsair AX1500i PSU w/Premium Sleeved Cables</h3>
+
+<p align="center"><a href="http://www.anandtech.com/show/11363/at20-giveaway-day-115-corsair-1500w-psu-and-ram"><img alt="" src="http://images.anandtech.com/doci/11363/ax1500i_575px.jpg" /></a></p>
+
+<p>Our second prize of the day is Corsair&rsquo;s flagship power supply, the <a href="http://www.corsair.com/en-us/ax1500i-digital-atx-power-supply-1500-watt-fully-modular-psu">AX1500i</a>. This massive 1500 Watt fully modular PSU is designed to be the last word in power supplies, and is capable of powering virtually almost any system that can actually be built. In fact it&rsquo;s so powerful that to actually get 1500 Watts sustained, it needs a 15A+ circuit that runs at 115V, which is to say that it requires a properly wired outlet and most of a circuit to itself.</p>
+
+<p>Yet despite being ludicrously powerful, the PSU is also surprisingly efficient, reaching the 80Plus Titanium threshold. As a result, the powerful PSU doesn&rsquo;t waste a lot of power even when idling, which can be difficult for high-power PSUs. As our own E. Fylladitakis noted back in <a href="http://www.anandtech.com/show/8353/corsair-ax1500i-power-supply-review/">his review of this PSU</a> &ldquo;Corsair has simply tried to create the very best power supply possible, regardless of the cost and market potential. They did succeed on breaking almost every performance record we can come up with for a consumer-grade PSU&rdquo;.</p>
+
+<p align="center"><a href="http://www.anandtech.com/show/11363/at20-giveaway-day-115-corsair-1500w-psu-and-ram"><img alt="" src="http://images.anandtech.com/doci/11363/cables_575px.jpg" /></a></p>
+
+<p>Rounding out the package, Corsair is also throwing in a set of their <a href="http://www.corsair.com/en-us/premium-individually-sleeved-psu-cable-kit-pro-package-type-4-generation-3-white-black">premium sleeved PSU cables</a>. While the AX1500i already comes with cables, Corsair&rsquo;s optional cables take things one step further with in-line capacitor and a paracord mesh braiding around the cables.</p>
+
+<p>Finally, as with our other giveaways, today&rsquo;s giveaway is only open for 48 hours, so be sure to enter soon. However please note that for legal reasons, we&rsquo;re only able to open these giveaways to residents of the United States.</p>
+
+<p>Good luck to everyone! And be sure to check in tomorrow for our next giveaway.</p>
+
+<p><div>Gallery: <a href="http://www.anandtech.com/Gallery/Album/5599" target="_blank">AT20 Giveaway Day 11.5: Corsair Has the Power (And Memory Too!)</a><div><a href="http://www.anandtech.com/Gallery/Album/5599#1" target="_blank"><img src="http://images.anandtech.com/galleries/5599/678x452_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5599#2" target="_blank"><img src="http://images.anandtech.com/galleries/5599/ax1500i_carousel_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5599#3" target="_blank"><img src="http://images.anandtech.com/galleries/5599/cables_carousel_thumb.jpg" width="85" height="85" border="0"/></a><a href="http://www.anandtech.com/Gallery/Album/5599#4" target="_blank"><img src="http://images.anandtech.com/galleries/5599/dominator_se_chrome_07_carousel_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+</p>]]></description>
+    <link>http://www.anandtech.com/show/11363/at20-giveaway-day-115-corsair-1500w-psu-and-ram</link>
+ 	<pubDate>Wed, 10 May 2017 20:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,11363:news</guid>
+ 	<category><![CDATA[ Giveaways]]></category>                               
+</item>  
+    
+</channel>
+</rss>

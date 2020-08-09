@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="MyPcs CPU" />
+<meta property="og:description" content="MyPcs CPU" />
+<title>MyPcs</title>
+<link href="lib/header.css" rel="stylesheet" type="text/css">
+<link href="lib/animation.css" rel="stylesheet" type="text/css">
+<link href="lib/CPU.css" rel="stylesheet" type="text/css">
+<link href="lib/font.css" rel="stylesheet" type="text/css">
+<link href="CPU/lib/CPU-anim.css" rel="stylesheet" type="text/css">
+<link href="lib/alternative1.css" rel="alternate stylesheet" type="text/css" title="AMD Style">
+<link href="lib/alternative2.css" rel="alternate stylesheet" type="text/css" title="nVIDIA Style">
+<link href="lib/printf.css" rel="alternate stylesheet" type="text/css" title="Print fridenly stlye">
+<!--<script type="text/javascript" src="lib/colormagic.js"></script>-->
+</head>
+
+<body>
+    <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/sdk.js#xfbml=1&version=v2.9";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+	<div id="head" >
+		<p><a href="index.html"><img id="logo" src="graph/Logo.png" width="182" height="70" alt="Logo"></a></p>
+		<div id="menu">
+		<ul>
+			<li><a href="#anim1">Frequency</a></li>
+			<li><a href="#anim5">Bus Speed</a></li>
+			<li><a href="#anim7">Cache</a></li>
+			<li><a href="#anim11">Wafer</a></li>
+			<li><a href="#anim13">Lithography</a></li>
+			<li><a href="#anim15">Etching</a></li>
+			<li><a href="#anim18">Cutting</a></li>
+			<li><a href="#anim20">Architecture</a></li>
+			<li><a href="#oc">OC</a></li>
+			</ul></div>
+	</div>	
+	<img id="oops" src="graph/oops.png" alt="oops">
+	<div class="cont">
+
+	<div id="heads">
+		<p>CPU</p>
+		<ul>
+			<li><a href="feedback.html" >Feedback</a></li>
+			<li><a href="gallery.html">Gallery</a></li>
+			<li><a href="refl.html">Reflection</a></li>
+		</ul>
+	</div>
+	<div class="cput">
+	<div class="cpu-anim">
+		<img id="int-anim" src="CPU/graph/cpu-intel.png" width="330" height="300" alt="intel Core i7">
+		<img id="amd-anim" src="CPU/graph/cpu-Ryzen.png" width="330" height="300" alt="AMD Ryzen">
+		<div id="ui-1"><p>CPU</p>
+			<p>The heart of computer</p></div>
+	</div>
+	<div id="cont">
+		<div><p id="title">The CPU, Central Processing Unit which is the most important thing for any computers. There are two manufacturer produce CPU for PC market which are Intel and AMD.</p></div>
+		<div id="perf">
+			<p class="mtitle" id="anim1">Performance</p>
+			<p class="stitle" id="anim2">Core frequency</p>
+			<div class="context" id="anim3"><p>Core frequency or called clock rate, common unit is Megahertz (MHz) or Gigahertz (GHz). Core frequency representing CPU’s computation and data processing speed. Usually, with the same generation architecture and same core count, higher frequency means better performance. </p>			
+			<p>CPU’s core frequency = Multiplier x Bus Speed. However, CPU’s performance and core frequency are not sample linear relation. Architecture and core counts is much more critical for performance.</p></div>
+			<p class="dyk" id="anim4">Did you know: the Xeon E5-2699 v3 @2.3 GHz is over 3 times faster than i7 4770k @4.0 GHz.*</p>
+			<p class="stitle" id="anim5">Bus Speed</p>
+			<div class="context" id="anim6"><p>Bus Speed is a base-frequency for CPUs, unit is MHz. Bus Speed decided speed of the whole mother board.</p></div>
+			<p class="stitle" id="anim7">Cache</p>
+			<div class="context" id="anim8"><p>Cache is a kind of memory and it is the nearest memory for cores. High speed cache is working at CPU clock rate. Cache’s read-write speed is faster than memory and hard drive. The most common instructions and data block will be storage in cache to reduce memory-read time and increase CPU processing efficiency.</p>
+			<p>Cache is a kind of memory and it is the nearest memory for cores. Cache also has different level: L1 Cache, L2 Cache and L3 Cache.</p></div>
+			<img src="CPU/graph/cache.PNG" id="cacheimg" alt="Cache">
+			<div id="anim9"><p class="subtile">L1 Cache</p>
+				<div class="cache">
+					<p>L1 Cache is the 1<sup>st</sup> level of high speed cache, included data cache and instructions cache. L1 Cache is built-in CPU for each core separately. Usually, in the main-stream PC CPU (i.e. Intel Core i7 and AMD Ryzen 1700), L1 Cache has 32 KB for data and 32 KB for instructions. In the server level CPU, L1 Cache could up to 256 KB.</p>
+				</div>
+				<p class="subtile">L2 Cache</p>
+				<div class="cache">
+					<p>L2 Cache is the 2<sup>nd</sup> level of the CPU cache. L2 Cache has two separate parts: inside and outside cache. Inside L2 Cache working frequency at CPU clock rate. Outside L2 Cache working at half CPU clock rate. L2 Cache also accelerate CPU performance. Usually, L2 Cache has 256 KB for each core in CPU.</p>
+				</div>
+				<p class="subtile">L3 Cache</p>
+				<div class="cache">
+					<p>In recent years, L3 Cache is shared with every core in CPU. L3 Cache also called ‘Shared Cache’ or ‘Smart Cache’ which called by Intel. L3 Cache could storage common using files and larger L3 Cache will give CPU longer queue. In the Core i3/i5/i7, L3 Cache usually has 4 MB/6 MB/8 MB and 20 MB for Extreme Edition. In AMD’s brand new Ryzen CPU, L3 Cache has 20 MB. For the server level, L3 Cache will up to 60 MB.</p>
+				</div>
+			</div>
+		</div>
+		<div id="manu">
+			<p class="mtitle" id="anim10">Manufacturing</p>
+			<p class="stitle" id="anim11">Wafer</p>
+			<div class="context" id="anim12">
+				<img id="wafer" src="CPU/graph/Wafer.png" width="150" height="160" alt="Wafer">
+				
+				<p>The first step to produce CPU is make the wafer. Wafer’s material is silicon, purity up to 99.9999%. </p>
+			</div>
+			<p class="stitle" id="anim13">Lithography</p>
+			<div class="context" id="anim14">
+				<p>After purified silicon and make wafer, the next step is put a layer of special material called Photoresist on the silicon-oxide layer. And CPU circuit will print on the wafer by UV. This step is called photolithography. </p>
+			</div>
+			<p class="stitle" id="anim15">Etching</p>
+			<div class="context" id="anim16">
+				<p>Etching is the most important step of manufacture CPU. Etching used the most advanced light technology. In this step they use UV light expose photoresist to make transistors. The most advanced PC CPU is power by 14nm Etching technology.</p>
+			</div>
+			<p class="dyk" id="anim17">Did you know: only one main-stream CPU, Core i7 7700k has 1.4 billion transistors on the die, Ryzen 1700 has over 4.8 billion transistors!</p>
+			<p class="stitle" id="anim18">Cutting</p>
+			<div class="context" id="anim19">
+				<p>The final step is Packaging. After Photolithography and Etching, everything on the CPU has been done. Cutting wafer specific area of rectangular and that was the most important for each CPU, called Die. However, that still cannot be used directly. They need packed in to ceramic or plastic container.</p>
+				<p>Generally, there are three methods for Package: BGA, PGA and LGA. BGA seal CPU on mother boards which means user cannot change or upgrade CPU in the future. BGA is popular on the laptops or embedded devices. PGA packaged connector pin on CPUs and users able to upgrade in the future, PGA is used by AMD in common. LGA is similar to PGA, but connector pin is on mother boards.</p>
+				<p>Better CPU has more complex package like LGA 2011-3 for Xeon E5 v3/v4 or AM4 for Ryzen.</p>
+				<div id="package"><img id="LGA2011" src="CPU/graph/LGA2011.png" width="400" alt="LGA2011-3">
+					<img id="AM4" src="CPU/graph/AM4.png" width="300" alt="AM4"></div>
+			</div>
+				<p class="stitle" id="anim20">Architecture</p>
+				<div class="context" id="anim21">
+					<p>Architecture is another important parameter which representing CPU performance. Architecture design is the most difficult part during producing. Better architecture design could have higher efficiency.</p>
+					<div id="diemap">
+						<p><img src="CPU/graph/SBE-die.png" width="300" height="340" alt="Sandy Bridge Die">
+						    <img src="CPU/graph/HSW-Die.png" width="300" alt="Haswell Die">
+                            <img src="CPU/graph/BDW-Die.png" width="300" alt="Boardwell Die"></p>
+						<p id="comms">(from left to right: Sandy-Bridge E, Haswell E and Boardwell E architecture)</p>
+					</div>
+				</div>
+		</div>
+      <div id="gmap">
+       <div class="mtitle" id="anim22">Inside of CPU</div>
+       <p><iframe height="510" width="650" src="CPU/lib/gmap.html" id="anim23" scrolling="no"></iframe></p>
+      </div>
+      <div class="mtitle" id="oc">Overclock</div>
+        <div class="stitle" style="color: #ff0000" id="anim24">
+        <p>Attention: Any tiny mistake colud make a PERMANENT DAMAGE</p>
+        <p>DON'T try it if you are new for OC.</p>
+        </div>
+        <div class="context" id="anim25">
+            <p>OC is the most economic method to inscrease your computer performance, but any wrong value setting could cause permanent damage. 
+            So before you OC your computer, please go to internet and read some post carefully which write by someone who has a same CPU as you have.</p>
+        </div>
+      <div id="scroll">
+          <div id="galry">
+          <ul class="roll">
+              <li><img src="graph/STORYBOADR1.png" alt="cover"></li>
+              <li><img src="graph/STORYBOADR2.png" alt="page1"></li>
+              <li><img src="graph/STORYBOADR3.png" alt="page2"></li>
+          </ul>
+      </div>
+      </div>
+      <div class="stitle" id="anim26">Video</div>
+      <div id="player"> <!--a video player write by myself base on HTML5-->
+          <video id="videos" controls preload="auto" src="video/p1.mp4">
+        Oops, looks like your browser doesn't support this format, how could a browser doesn't support MP4 video (╯‵□′)╯︵┻━┻, 
+        Maybe it just doesn't want to show this for you  (´･ω･｀)
+        </video>
+        <p id="vtitle"><span id="vtc">Overclock your CPU with software</span></p>
+        <script src="lib/palyer.js"></script>
+      </div>
+	</div>
+   </div>
+   </div>
+   <div class="share">
+       <ul class="share-button">
+      <li class="info"><a>Share us via:</a></li>
+      <li class="fb-share-button" data-href="http://partch.anu.edu.au.virtual.anu.edu.au/~u5890571/" 
+      data-layout="button_count" data-size="small" data-mobile-iframe="true">
+      <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fpartch.anu.edu.au.virtual.anu.edu.au%2F%7Eu5890571%2F&amp;src=sdkpreparse"></a></li>
+      <li class="tw-share-button"><a class="twitter-share-button"
+      href="https://twitter.com/intent/tweet?text=Share&url=http://partch.anu.edu.au.virtual.anu.edu.au/~u5890571&via=twitterdiv">
+        </a></li>
+       </ul>
+       <ul class="rss">
+           <li class="info"><a>or you also can subscribe some RSS feed:</a></li>
+           <li><a class="rss-feed-button1" href="http://feed.informer.com/widgets/ETLDKGTGBG.html"></a></li>
+           <li><a class="rss-feed-button2" href="http://feed.informer.com/widgets/GDLKNQNQMP.html"></a></li>
+       </ul>
+   </div>
+    <div id="end">
+     <p></p>
+      <p>&#169; Yanlong LI</p>
+      <br>
+      <ul>
+      	<li><a href="Site-map.html">Site map</a></li>
+      	<li><a href="feedback.html">Feedback</a></li>
+      	<li><a href="assignment.html">Assignment</a></li>
+      </ul>
+      <p>This web is a part of assignment of COMP1710 &#64; ANU</p>
+      <p id="act">* The test result is based on CINEBENCH render test, Xeon E5-2699 v3 and i7 4770k both powered by Haswell technology</p>
+    </div>
+</body>
+</html>

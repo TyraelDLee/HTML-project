@@ -1,0 +1,266 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@keyframes intel-move{
+	0% {opacity: 0; bottom: 0px;}
+	50% {opacity: 0; bottom: 75px;}
+	100% {opacity: 1; bottom: 150px;}
+}
+
+@keyframes amd-move {
+	0% {opacity: 0; top: 0px;}
+	50% {opacity: 0; top: 75px;}
+	100% {opacity: 1; top: 150px;}
+}
+
+@keyframes fade-in {  
+    0% {opacity: 0;} 
+    40% {opacity: 0;}  
+    100% {opacity: 1;} 
+}  
+@-webkit-keyframes fade-in {
+    0% {opacity: 0;}  
+    40% {opacity: 0;}  
+    100% {opacity: 1;}  
+}  
+
+@keyframes movein {
+	0% {opacity: 0; bottom: -50px;}
+	50% {opacity: 0; bottom: -25px;}
+	100% {opacity: 1; bottom: 0px;}
+}
+
+@keyframes moveinp2{
+	0% {opacity: 0;bottom: -50px;}
+	75% {opacity: 0;bottom: -25px;}
+	100% {opacity: 1;bottom: 0px;}
+}
+
+@keyframes in{
+    0% {left: 0px;}
+    25% {left: 0px;}
+    30% {left: -1100px;}
+    55% {left: -1100px;}
+    60% {left: -2200px;}
+    85% {left: -2200px;}
+    100% {left: -0px;}
+}
+
+@keyframes engray{
+    0% {color: aliceblue;}
+    100% {color: #9E9E9E;}
+}
+
+#int-anim{
+	animation: intel-move;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#amd-anim{
+	animation: amd-move;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#ui-1{
+	animation: fade-in;  
+    animation-duration: 5s;
+    -webkit-animation:fade-in 3s; 
+}
+
+#title{
+	animation: move-in;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#cacheimg{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim1{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim2{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim3{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim4{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim5{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim6{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim7{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim8{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim9{
+	animation: movein;
+	animation-duration: 3s;
+	position: relative;
+}
+
+#anim10{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim11{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim12{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim13{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim14{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim15{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim16{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim17{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim18{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim19{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim20{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim21{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim22{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim23{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim24{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim25{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#anim26{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#oc{
+	animation: moveinp2;
+	animation-duration: 5s;
+	position: relative;
+}
+
+#scroll{
+	animation: moveinp2;
+	animation-duration: 5s;
+
+}
+
+.roll{
+        animation: in;
+    animation-duration: 22.5s;
+    animation-iteration-count:infinite;
+}
+
+.fb-xfbml-parse-ignore:hover {
+    animation: engray;
+    animation-direction: 0.2s;
+}
+
+.twitter-share-button:hover {
+    animation: engray;
+    animation-duration: 0.2s;
+}

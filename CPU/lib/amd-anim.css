@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@keyframes amd-anim {
+	0% {background-color: #0171C4}
+	25% {background-color: #0171C4}
+	100% {background-color:#EC1B23}
+}
+
+@keyframes amd-bg {
+	0% {opacity: 0; bottom: -50px;}
+	50% {opacity: 0; bottom: -25px;}
+	100% {opacity: 1; bottom: 0px;}
+	
+}
+
+
+#amd-head{
+	animation: amd-anim;
+	animation-duration: 3s;
+	-wbkit-animation: amd-anim 1.5s;
+}
+
+#amd-end{
+	animation: amd-anim;
+	animation-duration: 3s;
+	-wbkit-animation: amd-anim 1.5s;
+}
+
+#amd-bg{
+	animation: amd-bg;
+	animation-duration: 5s;
+	-webkit-animation:amd-bg 1.5s;
+}
